@@ -1,0 +1,12 @@
+---
+pagetitle: "404"
+editor: source
+---
+
+<div class="centerBig">404</div>
+
+<div class="centerMedium">OOPS! Page not found, sorry!<br>Try the search tool or navigate back to the [homepage](https://github.bath.ac.uk/pages/PRiME-University-of-Bath/Group_Webpage/).</div>
+
+<br><br>
+
+![](images/error404_1.gif){width=100% fig-align=center}

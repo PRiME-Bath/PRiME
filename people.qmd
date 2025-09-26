@@ -1,0 +1,66 @@
+---
+editor: source
+---
+
+::: {.panel-tabset}
+
+# **Current members**
+
+```{=html}
+<table>
+  <tr>
+    <td><img src="images/waleed_ali.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/waleed-ali', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Waleed Ali [<a href="mailto:waaa21@bath.ac.uk">waaa21@bath.ac.uk</a>]</strong><br>I am an applied mathematician but have ventured into mathematics education. My interests now lie in teaching pure mathematics from a tangible point of view, that is more appealing to students who are starting their university education.</td>
+  </tr>
+  <tr>
+    <td><img src="images/ilaria_bussoli.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Ilaria Bussoli [<a href="mailto:ib641@bath.ac.uk">ib641@bath.ac.uk</a>]</strong><br>I am keen in exploring innovative and inclusive ways to make statistics more approachable to students, from gamification and hands-on activities to embedded history of Mathematics and Statistics and interactive lecture material. My focus is mostly on students without a mathematical background, and how to support them better in their learning path.</td>
+  </tr>
+  <tr>
+    <td><img src="images/thomas_cottrell.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/thomas-cottrell', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Thomas Cottrell [<a href="mailto:tpc40@bath.ac.uk">tpc40@bath.ac.uk</a>]</strong><br>I am a pure mathematician with a background in category theory, a branch of maths in which the processes of proving and understanding a statement go hand-in-hand. Studying category theory gave me a strong sense of what does (or doesn't) constitute a well-expressed mathematical definition or proof – this led me to an interest in mathematical reading, writing and thinking, and how students develop these skills. I am also interested in the transition from school to university level, with the majority of my teaching experience being in courses for first-year maths undergraduates.</td>
+  </tr>
+  <tr>
+    <td><img src="images/james_foadi.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/james-foadi', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>James Foadi [<a href="mailto:jf850@bath.ac.uk">jf850@bath.ac.uk</a>]</strong><br>I am an ex-theoretical physicist who sold his soul to theoretical crystallography and lately to mathematical education. I am interested in new educational and pedagogical approaches to assessment and feedback in Mathematics courses, as well as History of Mathematics.</td>
+  </tr>
+  <tr>
+    <td><img src="images/mason_pember.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/mason-pember', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Mason Pember [<a href="mailto:mp312@bath.ac.uk">mp312@bath.ac.uk</a>]</strong><br>I want to explore innovative teaching methods that are inclusive and inspire students to pursue learning beyond their degree. I am particularly interested in methods that provoke creativity.</td>
+  </tr>
+  <tr>
+    <td><img src="images/tamsin_smith.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/tamsin-smith', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Tamsin Smith [<a href="mailto:tls35@bath.ac.uk">tls35@bath.ac.uk</a>]</strong><br>I am eager to explore how mathematics is learned and taught, especially regarding the shift in approach that students encounter when transitioning from school to higher education. I’m also interested in experimenting with innovative educational practices and assessment methods to enhance the student experience and improve outcomes.</td>
+  </tr>
+      <tr>
+    <td><img src="images/ben_sparks.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://www.bensparks.co.uk/', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Ben Sparks [<a href="mailto:bjs55@bath.ac.uk">bjs55@bath.ac.uk</a>]</strong><br>I am a mathematician, musician, and public speaker. I give maths talks and workshops around the world, to students, teachers, and the general public. I am part freelance and part-time with the University of Bath where I am teaching on the Communicating Maths course, together with Tamsin Smith.</td>
+  </tr>
+  <tr>
+    <td><img src="images/jane_white.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer;" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/jane-white', 'blank');"/></td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Jane White [<a href="mailto:maskajw@bath.ac.uk">maskajw@bath.ac.uk</a>]</strong><br>I am interested in progression of assessment activity through UG programmes and assessment for learning. I am keen on developing the academic Education role, and for PRiME to be a voice for academic staff in the Education teaching pathways, as well as a nationally recognised Centre for Excellence in pedagogic practice for Mathematical Sciences.</td>
+  </tr>
+</table>
+```
+
+# **Previous members**
+
+Evi Papadaki
+
+Anna Daupare
+
+:::
+ 
+ 
+  <!--  <tr> -->
+  <!--   <td><img src="images/evi_papadaki.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/evi-papadaki', 'blank');"/></td> -->
+  <!--   <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Evi Papadaki [<a href="mailto:pp949@bath.ac.uk">pp949@bath.ac.uk</a>]</strong><br>I am interested in Mathematics Education research in HE, and issues of transition from school to University, and from University to career and employment. As part of the PRiME group, I like to support mathematicians find their voice and/or path in Mathematics Education and practice-based research.</td> -->
+  <!-- </tr> -->
+
+  
+  <!--   <tr> -->
+  <!--   <td><img src="images/anna_daupare.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/anna-daupare', 'blank');"/></td> -->
+  <!--   <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Anna Daupare</strong><br> hello hello hello hello hello hello hellooooo</td> -->
+  <!-- </tr> -->
+  
+

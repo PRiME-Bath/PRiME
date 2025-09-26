@@ -1,0 +1,15 @@
+---
+title: "PRiME"
+subtitle: "Practice and Research in Mathematical sciences Education" 
+editor: source
+about:
+    template: marquee
+    # image: images/profile.jpg
+    # image-width: 100%
+---
+
+The **P**ractice and **R**esearch **i**n **M**athematical sciences **E**ducation group in the [Department of Mathematical Sciences](https://www.bath.ac.uk/departments/department-of-mathematical-sciences/) began in 2023 and focuses on innovative teaching methods, curriculum development, and educational technologies to enhance mathematical learning experiences and to help in transitioning from school to higher education.
+
+We conduct innovative practice and research on mathematical teaching and learning, develop and test new instructional strategies and educational tools, collaborate with schools and educational institutions to implement best practices, and host workshops and seminars to share our findings and foster a community of educators and researchers.
+
+**Contact email:** [PRiME@bath.ac.uk](mailto:PRiME@bath.ac.uk).

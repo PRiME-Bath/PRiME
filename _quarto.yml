@@ -1,0 +1,59 @@
+project:
+    type: website
+    output-dir: "docs"
+    preview: 
+        port: 22222
+        browser: true
+        watch-inputs: true
+        navigate: true
+
+website:
+    title: "PRiME"
+    site-url: https://github.com/PRiME-Bath
+    description: "Practice-based research group in mathematical sciences education and pedagogy"
+    open-graph: true
+    navbar:
+        pinned: true
+        left:
+            - text: "Home"
+              href: index.qmd
+            - text: "People"
+              href: people.qmd
+            - text: "Seminars"
+              href: seminars.qmd
+            - text: "Teaching"
+              href: teaching.qmd
+            - text: "Projects"
+              href: projects.qmd              
+            - text: "Resources"
+              href: resources.qmd
+        right: 
+            - icon: envelope
+              aria-label: email   
+              href: "mailto:PRiME@bath.ac.uk"
+    page-footer: 
+        left: "Department of Mathematical Sciences <br> PRiME group" 
+        border: false
+        background: light
+        right: | 
+            ![](images/logo_white.png){width=25%}
+    search: 
+        location: navbar
+        type: textbox
+    back-to-top-navigation: true
+
+format:
+    html:
+        theme: [pulse, styles.scss]
+        fontsize: 1.5rem
+        page-layout: full
+        css: styles.css
+        toc: false
+        code-link: true
+        anchor-sections: true
+        fig-cap-location: margin
+        reference-location: margin
+        footnotes-hover: true
+
+editor: source
+

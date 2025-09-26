@@ -1,0 +1,41 @@
+---
+editor: source
+---
+
+We teach across the entire range of mathematical subjects and disciplines. 
+
+Below you will find modules from our own domain, offered in all programs of the department (BSc/MMath in Mathematics, BSc in Mathematics and Statistics, and BSc in Mathematics, Statistics and Data Science). 
+
+::: {.panel-tabset}
+
+# **Foundations**
+
+*Year: 1*
+
+This course focuses on developing strong study skills to help ease the transition from school-level mathematics to university-level mathematics. It emphasises logical thinking and clear, rigorous mathematical writing. Students will learn how to work with definitions, axioms, theorems, and various types of proofs (such as proof by construction, contradiction, or induction).
+
+By the end of the course, students should be able to understand and manipulate logical statements, evaluate the validity of mathematical arguments, and confidently write their own proofs using a range of techniques.
+
+# **Connections**
+
+*Year: 1*
+
+This course provides an introduction to the vibrant world of mathematical research within the department. Students are introduced to advanced mathematical topics and their applications in real-world contexts, including industry, society, and public engagement. They will also gain insight into the University's outreach and advocacy efforts, highlighting the broader impact of mathematics beyond academia.
+
+By the end of the course, students will be able to discuss the wide-ranging scope and significance of contemporary mathematical research, and appreciate its role in solving complex problems and driving innovation across various fields.
+
+# **Communicating Maths**
+
+*Year: 3*
+
+This course introduces students to the critical evaluation of a wide range of mathematical communication formats, such as videos, articles, lessons, workshops, and events. It encourages students to reflect on how to effectively inspire, engage, and motivate different audiences when presenting mathematical content. Alongside this, students will develop a deeper understanding of the pedagogy of mathematics and how it informs communication strategies.
+
+As part of the course, students will design and deliver two Mathematical Interactions, with at least one presented live (such as a group-led workshop, a masterclass, or media content). Students will then critically evaluate their own work, reflecting on its success and identifying ways to improve future outcomes.
+
+Throughout the course, lectures will provide a variety of examples and practical guidance on planning, delivering, and assessing mathematical communication. These are complemented by regular mentoring tutorials with course leaders, offering personalised support and feedback.
+
+By the end of the unit, students will have developed an understanding of different approaches to learning mathematics, gained experience in applying a range of communication and presentation techniques appropriately, and demonstrated the ability to critically evaluate their own work.
+
+:::
+
+

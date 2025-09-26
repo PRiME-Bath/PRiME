@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>PRiME</title>
+<link>https://github.com/PRiME-Bath/resources.html</link>
+<atom:link href="https://github.com/PRiME-Bath/resources.xml" rel="self" type="application/rss+xml"/>
+<description>Practice-based research group in mathematical sciences education and pedagogy</description>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 06 Dec 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Generating dynamic assessment questions with NUMBAS</title>
+  <dc:creator>Tamsin Smith, Evi Papadaki</dc:creator>
+  <link>https://github.com/PRiME-Bath/resources/numbas.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br></p>
+<p>The <a href="https://www.bath.ac.uk/professional-services/mathematics-resources-centre-mash/">Maths Resource Centre</a> at the University of Bath has a long history of using and developing NUMBAS questions for mathematical assessments. <a href="https://www.numbas.org.uk/">NUMBAS</a> is a free open-sourced web-based system designed for creating dynamic assessment questions.</p>
+<p>There are several advantages to using NUMBAS, including immediate feedback for students, which helps them to learn and adjust their understanding in real-time. The randomization feature also allows students to practice questions repeatedly with different data sets, reinforcing their skills and enhancing their learning experience. However, there are some limitations. One of the main drawbacks is the lack of personalized feedback, which means students may not receive tailored advice on their progress. Additionally, the need to code specific contexts for the questions can limit the extent of randomization, potentially reducing the variety of practice scenarios.</p>
+<p>The MAST service of the Maths Resource Centre, led by us, has expanded the use of NUMBAS questions by incorporating them as creative tools within the teaching process. One of the first innovations was to contextualize the mathematics for different disciplines. This initiative began in response to a request from a specific subject area where students needed to develop mathematical and data analysis skills to support their subject understanding and problem-solving. It was also a response to the diverse entry profiles of the student cohort.</p>
+<p>Further developments include collaborations where NUMBAS has been used in summative assessments, featuring randomised data sets. Additionally, it has been embedded in lecture materials as a live teaching tool, enhancing the overall learning experience.</p>
+<p>If you’re interested in our work, <a href="INDRUM2024Poster.pdf">take a look at our poster presented at the INDRUM 2024 conference</a>, or explore some examples of the questions developed by the team below.</p>
+<p><br></p>
+<iframe width="100%" height="1208" src="https://numbas.mathcentre.ac.uk/exam/37971/prime-blogpost-example-questions/embed/?token=47dfb0bb-30d3-4d98-b948-6d1afbb8ad6a" title="Exemplar Numbas Questions"></iframe>
+<p><br></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>NUMBAS</category>
+  <category>VLE</category>
+  <category>Assessment</category>
+  <category>Automatic feedback</category>
+  <guid>https://github.com/PRiME-Bath/resources/numbas.html</guid>
+  <pubDate>Fri, 06 Dec 2024 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

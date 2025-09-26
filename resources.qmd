@@ -1,0 +1,19 @@
+---
+editor: source
+listing:
+    contents: 
+        - "resources/*.qmd"
+    type: default
+    fields: 
+      - date
+      - author
+      - title
+      - description
+    sort: "date desc"
+    date-format: "MMMM D, YYYY"
+    categories: true
+    filter-ui: [title]
+    feed: true
+---
+
+You can review the following available resources for additional information.
