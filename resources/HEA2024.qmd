@@ -1,0 +1,14 @@
+---
+title: "Applying for HEA Fellowship in the Maths Department"
+description: "Requirments for applying for AFHEA, FHEA or SFHEA in the maths department"
+author: "Waleed A Ali, PHEAF"
+date: 11/13/2024
+draft: false
+editor: source
+categories:
+    - HEA
+---
+
+<br>
+
+If you are thinking of applying for an Associate Fellowship, Fully Fellowship or Senior Fellowship to the HEA (known as *AHFEA*, *FHEA* and *SFHEA*), then the [following presentation](HEA2024.pptx) will guide you towards what you need.
