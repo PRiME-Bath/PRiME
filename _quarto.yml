@@ -45,7 +45,7 @@ website:
 format:
     html:
         theme: [pulse, styles.scss]
-        fontsize: 1rem
+        fontsize: 1.25rem
         page-layout: full
         css: styles.css
         toc: false
