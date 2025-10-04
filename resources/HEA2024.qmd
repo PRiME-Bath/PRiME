@@ -2,7 +2,7 @@
 title: "Applying for HEA Fellowship in the Maths Department"
 description: "Requirments for applying for AFHEA, FHEA or SFHEA in the maths department"
 author: "Waleed A Ali, PHEAF"
-date: 11/13/2024
+date: 11/20/2024
 draft: false
 editor: source
 categories:

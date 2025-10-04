@@ -9,7 +9,7 @@
 <link>https://github.com/PRiME-Bath/resources.html</link>
 <atom:link href="https://github.com/PRiME-Bath/resources.xml" rel="self" type="application/rss+xml"/>
 <description>Practice-based research group in mathematical sciences education and pedagogy</description>
-<generator>quarto-1.7.32</generator>
+<generator>quarto-1.5.40</generator>
 <lastBuildDate>Fri, 06 Dec 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Generating dynamic assessment questions with NUMBAS</title>
@@ -57,7 +57,7 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>HEA</category>
   <guid>https://github.com/PRiME-Bath/resources/HEA2024.html</guid>
-  <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

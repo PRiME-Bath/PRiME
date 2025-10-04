@@ -4,13 +4,13 @@ editor: source
 
 ::: {.panel-tabset}
 
-# **Current members**
+# **Current Members**
 
 ```{=html}
 <table>
   <tr>
     <td><img src="images/waleed_ali.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/waleed-ali', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Waleed Ali [<a href="mailto:waaa21@bath.ac.uk">waaa21@bath.ac.uk</a>]</strong><br>I am an applied mathematician but have ventured into mathematics education. My interests now lie in teaching pure mathematics from a tangible point of view, that is more appealing to students who are starting their university education.</td>
+    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Waleed Ali [<a href="mailto:waaa21@bath.ac.uk">waaa21@bath.ac.uk</a>]</strong><br>I am an applied mathematician, specialising in fluid dyanmics and hydrodynamic stability theory.  My career progression and interests have started to shift more into mathematics education and pedagogy, and making mathematics more appealing to undergraduates and those in the general public.  My roles in the department are as a lecturer in pure and applied mathematics, Outreach & Widening Particpation and the HEA Champion.</td>
   </tr>
   <tr>
     <td><img src="images/ilaria_bussoli.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli', 'blank');"/></td>
@@ -43,7 +43,7 @@ editor: source
 </table>
 ```
 
-# **Previous members**
+# **Former Members**
 
 Evi Papadaki
 

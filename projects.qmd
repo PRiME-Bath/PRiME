@@ -4,7 +4,7 @@ editor: source
 
 # BSc Projects
 
-+ *An Analysis of gender-related differences in mathematics education: Uptake rates of voluntary further study and subsequent attainment* [Liam Jones, Tamsin Smith, 2024, in collaboration with MASH].
++ *An Analysis of Gender-Related Differences in Mathematics Education: Uptake Rates of Voluntary Further Study & Subsequent Attainment* [Liam Jones, Tamsin Smith, 2024].
 
 # MMath Projects
 

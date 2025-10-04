@@ -2,9 +2,7 @@
 editor: source
 ---
 
-We teach across the entire range of mathematical subjects and disciplines. 
-
-Below you will find modules from our own domain, offered in all programs of the department (BSc/MMath in Mathematics, BSc in Mathematics and Statistics, and BSc in Mathematics, Statistics and Data Science). 
+We teach across the entire range of mathematical subjects and disciplines.  Below are the units focussed on mathematics education, history and language offered in all programs of the department (BSc/MMath in Mathematics, BSc in Mathematics and Statistics, and BSc in Mathematics, Statistics and Data Science). 
 
 ::: {.panel-tabset}
 
@@ -12,15 +10,15 @@ Below you will find modules from our own domain, offered in all programs of the 
 
 *Year: 1*
 
-This course focuses on developing strong study skills to help ease the transition from school-level mathematics to university-level mathematics. It emphasises logical thinking and clear, rigorous mathematical writing. Students will learn how to work with definitions, axioms, theorems, and various types of proofs (such as proof by construction, contradiction, or induction).
+This course focuses on developing strong skills to help ease the transition from school-level mathematics to university-level mathematics.  It emphasises logical thinking and clear, rigorous mathematical writing as well as understanding the use of mathematical notation and building a coherent repertoire of clear mathematical thought.  Students will learn how to work with definitions, axioms, theorems, and various types of proofs, as well as being able to engage in formal mathematical discourse in a clear and effective way.
 
-By the end of the course, students should be able to understand and manipulate logical statements, evaluate the validity of mathematical arguments, and confidently write their own proofs using a range of techniques.
+By the end of the unit, students should be able to understand and manipulate logical statements, evaluate the validity of mathematical arguments, and confidently and clearly write their own proofs using a range of techniques.
 
 # **Connections**
 
 *Year: 1*
 
-This course provides an introduction to the vibrant world of mathematical research within the department. Students are introduced to advanced mathematical topics and their applications in real-world contexts, including industry, society, and public engagement. They will also gain insight into the University's outreach and advocacy efforts, highlighting the broader impact of mathematics beyond academia.
+This course provides an introduction to the vibrant world of mathematical research within the department.  Students are introduced to advanced mathematical topics and their applications in real-world contexts, including industry, society, and public engagement. They will also gain insight into the University's outreach and advocacy efforts, highlighting the broader impact of mathematics beyond academia.  This unit is a department-wide unit where one topic from every research group (Applied Mathematics; Numerical Analysis & Data Science; Statistics; Probability; Analysis; Algebra, Geometry & Number Theory; Mathematics Education & Pedagogy) is presented and explored.  This will allow the students to appreciate the research that is done across the department and how this translates to real-world applications.
 
 By the end of the course, students will be able to discuss the wide-ranging scope and significance of contemporary mathematical research, and appreciate its role in solving complex problems and driving innovation across various fields.
 
@@ -37,5 +35,3 @@ Throughout the course, lectures will provide a variety of examples and practical
 By the end of the unit, students will have developed an understanding of different approaches to learning mathematics, gained experience in applying a range of communication and presentation techniques appropriately, and demonstrated the ability to critically evaluate their own work.
 
 :::
-
-
