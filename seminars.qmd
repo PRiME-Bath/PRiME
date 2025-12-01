@@ -10,32 +10,35 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 ## Upcoming Seminars {.unnumbered}
 
-### ![](images/logos/Cardiff-Logo.png){width=100px} 19/11/2025 - Flipping the Foundations, Robert Wilson
+<!-- ### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, Ilaria Bussoli (University of Bath) -->
 
-:::{.callout-note title="Speaker:  Robert Wilson" icon=false collapse=true}
-[Robert Wilson](https://profiles.cardiff.ac.uk/staff/wilsonrh) is a Reader in Mathematics with more than 20 years' experience of teaching and scholarship at Cardiff University. Specific roles have included University Dean for Education Innovation (and academic lead for the inaugural Cardiff University Centre for Education Innovation), Director of Learning and Teaching for the School of Mathematics, and Head of the University-wide Mathematics Support Service. Robert is a National Teaching Fellow of Advance H.E., and a board member of the London Mathematical Society Education Committee. Robert's specific scholarship interests focus on providing opportunity for all students to reach their potential through exploring and investigating concepts in an active, safe but challenging learning environment.
-:::
+<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
+<!-- TBC -->
+<!-- ::: -->
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
-This presentation will discuss a reimagining of a large, core, undergraduate mathematics module by implementing a flipped learning approach. Specific focus for the session will include: 
+<!-- ### ![](images/logos/Bath-Logo.png){width=100px} 18/02/2026 - TBC, Ruth Hand (University of Bath Skills Centre) -->
 
-+ the rationale behind the change;
-+ highlighting examples of the activities and resources developed;
-+ the impact on learners (and facilitators);
-+ potential future enhancements and challenges. 
+<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
+<!-- TBC -->
+<!-- ::: -->
 
-There will also be significant opportunity to discuss and debate the ideas raised in further detail. 
-:::
+<!-- ### ![](images/logos/OU-Logo.png){width=100px} 11/03/2026 - TBC, Brigitte Stenhouse (The Open University) -->
 
-<br>
+<!-- :::{.callout-note title="Speaker:  Brigitte Stenhouse" icon=false collapse=true} -->
+<!-- [Brigitte Stenhouse](https://sites.google.com/view/brigitte-stenhouse/home) is a historian of mathematics who is curious about how mathematicians build communities and gatekeep knowledge. -->
+<!-- ::: -->
 
-### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - Paola Iannone (University of Edinburgh)
+<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
+<!-- TBC -->
+<!-- ::: -->
+
+### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - TBC, Paola Iannone (University of Edinburgh)
 
 :::{.callout-note title="Speaker:  Paola Iannone" icon=false collapse=true}
 [Paola Inannone](https://www.research.ed.ac.uk/en/persons/paola-iannone) completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). She was then appointed for three years as a Teaching Fellow in the Mathematics department at UEA, and later became a Senior Research Assistant in the School of Education still at UEA until she was appointed to a Lectureship in Educational Research in 2007 and then to a Senior Lectureship in 2012. She was a Senior Lecturer in Mathematics Education at Loughborough University in 2016. In 2023, she moved to the School of Mathematics at the University of Edinburgh to take up a Readership in the Technology Enhanced Mathematical Sciences Education group.
 :::
 
-:::{.callout-note title="Asbtract" icon=false collapse=true}
+:::{.callout-note title="Abstract" icon=false collapse=true}
 TBC
 :::
 
@@ -53,6 +56,21 @@ TBC
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Some mathematics undergraduate programs include in their syllabi also courses on mathematics education. The motivation for such courses is to introduce mathematics students to the field of mathematics education research or/and to prepare them for mathematics teaching. Research in mathematics education, however, is a very different enterprise from research in mathematics. For example, in mathematics education, much research focuses on human interactions and the social, cultural and educational contexts in which these interactions take place. While there is some attention to mathematical errors students make, there is also more focus on the reasons behind the error. Approaches are more relativist on what constitutes knowledge and evidence is not in the form of ‘proof’ as we know in mathematics. Balancing attention to the practices of mathematics (what I will call mathematical discourses) with attention to the practices for the teaching and learning of mathematics (what I will call pedagogical discourses) is an exciting challenge.  In this session, I will discuss how I address this challenge in a course that introduces mathematics education to undergraduate mathematics students. Specifically, I will share examples of course activities that draw on the principles of the [MathTASK](https://www.uea.ac.uk/groups-and-centres/a-z/mathtask), a research and development programme that I co-lead at UEA. In MathTASK, we engage teachers or students with fictional but realistic classroom situations and ask them to reflect on these situations (we call these activities “mathtasks”). We will discuss one or more mathtasks inspired by current debates on the impact of genAI on students’ development of mathematical problem-solving skills.
+:::
+
+#### ![](images/logos/Cardiff-Logo.png){width=100px} 19/11/2025 - Flipping the Foundations, Robert Wilson
+
+**Speaker:** [Robert Wilson](https://profiles.cardiff.ac.uk/staff/wilsonrh)
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+This presentation will discuss a reimagining of a large, core, undergraduate mathematics module by implementing a flipped learning approach. Specific focus for the session will include: 
+
++ the rationale behind the change;
++ highlighting examples of the activities and resources developed;
++ the impact on learners (and facilitators);
++ potential future enhancements and challenges. 
+
+There will also be significant opportunity to discuss and debate the ideas raised in further detail. 
 :::
 
 ### Academic Year 2024/5 {.unnumbered}
