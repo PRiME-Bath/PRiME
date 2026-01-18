@@ -44,7 +44,7 @@ TBC
 
 <br>
 
-### ![](images/logos/OU-Logo.png){width=100px} 25/03/2026 - TBC, Brigitte Stenhouse (The Open University)
+### ![](images/logos/OU-Logo.png){width=100px} 22/04/2026 - TBC, Brigitte Stenhouse (The Open University)
 
 :::{.callout-note title="Speaker:  Brigitte Stenhouse" icon=false collapse=true}
 [Brigitte Stenhouse](https://sites.google.com/view/brigitte-stenhouse/home) is a lecturer in History of Mathematics whose current research considers the circulation of mathematics within and between scientific households in 19th-century Britain.  This project will focus on how mathematics complemented studies of the physical sciences, and how mathematical ideas were creatively translated, adapted, or indeed removed depending on each individual’s mathematical aptitude.
