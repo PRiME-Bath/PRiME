@@ -32,6 +32,30 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 <!-- TBC -->
 <!-- ::: -->
 
+### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, Ilaria Bussoli (University of Bath)
+
+:::{.callout-note title="Speaker:  Ilaria Bussoli" icon=false collapse=true}
+
+:::
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+TBC
+:::
+
+<br>
+
+### ![](images/logos/Bath-Logo.png){width=100px} 04/03/2026 - TBC, Thomas Cottrell & Tamsin Smith (University of Bath)
+
+:::{.callout-note title="Speaker:  Thomas Cottrell, Tamsin Smith" icon=false collapse=true}
+
+:::
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+TBC
+:::
+
+<br>
+
 ### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - TBC, Paola Iannone (University of Edinburgh)
 
 :::{.callout-note title="Speaker:  Paola Iannone" icon=false collapse=true}
@@ -42,17 +66,6 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 TBC
 :::
 
-<br>
-
-### ![](images/logos/OU-Logo.png){width=100px} 22/04/2026 - TBC, Brigitte Stenhouse (The Open University)
-
-:::{.callout-note title="Speaker:  Brigitte Stenhouse" icon=false collapse=true}
-[Brigitte Stenhouse](https://sites.google.com/view/brigitte-stenhouse/home) is a lecturer in History of Mathematics whose current research considers the circulation of mathematics within and between scientific households in 19th-century Britain.  This project will focus on how mathematics complemented studies of the physical sciences, and how mathematical ideas were creatively translated, adapted, or indeed removed depending on each individual’s mathematical aptitude.
-:::
-
-:::{.callout-note title="Abstract" icon=false collapse=true}
-TBC
-:::
 <br>
 
 ## Previous Seminars {.unnumbered}
