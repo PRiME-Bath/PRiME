@@ -32,7 +32,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 <!-- TBC -->
 <!-- ::: -->
 
-### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, Ilaria Bussoli (University of Bath)
+### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, *Ilaria Bussoli*
 
 :::{.callout-note title="Speaker:  Ilaria Bussoli" icon=false collapse=true}
 
@@ -44,19 +44,23 @@ TBC
 
 <br>
 
-### ![](images/logos/Bath-Logo.png){width=100px} 04/03/2026 - TBC, Thomas Cottrell & Tamsin Smith (University of Bath)
+### ![](images/logos/Bath-Logo.png){width=100px} 04/03/2026 - Re-engagement Tutorials: Piloting A Dual Tutorial Model, *Thomas Cottrell*, *Tamsin Smith*, *Ruth Wye* & *Ameen Hassan*
 
-:::{.callout-note title="Speaker:  Thomas Cottrell, Tamsin Smith" icon=false collapse=true}
+:::{.callout-note title="Speakers:  Thomas Cottrell, Tamsin Smith, Ruth Wye & Ameen Hassan" icon=false collapse=true}
 
 :::
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
-TBC
+Over recent semesters, the Department of Mathematical Sciences has observed a consistent decline in tutorial attendance beyond the mid-semester point, suggesting that many students disengage after falling behind with course material. To address this challenge, we piloted for an alternative model for year 1algebra tutorials that ran alongside the standard model. This opportunity provided focused, slower-paced delivery with personalised revision, and confidence-building support.
+
+In this talk we will discuss the rationale and implementation of this pilot and reflect on the successes and challenges.
+
+This pilot project was funded by the Teaching Development Fund.
 :::
 
 <br>
 
-### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - TBC, Paola Iannone (University of Edinburgh)
+### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - TBC, *Paola Iannone*
 
 :::{.callout-note title="Speaker:  Paola Iannone" icon=false collapse=true}
 [Paola Inannone](https://www.research.ed.ac.uk/en/persons/paola-iannone) completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). She was then appointed for three years as a Teaching Fellow in the Mathematics department at UEA, and later became a Senior Research Assistant in the School of Education still at UEA until she was appointed to a Lectureship in Educational Research in 2007 and then to a Senior Lectureship in 2012. She was a Senior Lecturer in Mathematics Education at Loughborough University in 2016. In 2023, she moved to the School of Mathematics at the University of Edinburgh to take up a Readership in the Technology Enhanced Mathematical Sciences Education group.
