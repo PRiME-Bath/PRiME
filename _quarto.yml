@@ -9,7 +9,7 @@ project:
 
 website:
     title: "PRiME"
-    site-url: https://github.com/PRiME-Bath
+    site-url: https://prime-bath.github.io/PRiME/
     description: "Practice-based research group in mathematical sciences education and pedagogy"
     open-graph: true
     navbar:

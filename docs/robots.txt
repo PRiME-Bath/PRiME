@@ -1,1 +1,1 @@
-Sitemap: https://github.com/PRiME-Bath/sitemap.xml
+Sitemap: https://prime-bath.github.io/PRiME/sitemap.xml
