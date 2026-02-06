@@ -7,7 +7,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 ## **11/02/2026** Developing a Repository of Maths Teaching Resources Embedding EDI
 :::{.columns}
 :::{.column width=10%}
-![](images/Logos/Bath-Logo.png){width=100%}
+![](images/Logos/Bath-Logo.png)
 :::
 :::{.column width=2%}
 :::
