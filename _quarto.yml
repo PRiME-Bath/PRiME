@@ -43,8 +43,7 @@ website:
 format:
     html:
         theme: [pulse, styles.scss]
-        grid:
-            body-width: 1600px
+        page-layout: full
         fontsize: 1.2rem
         toc: false
         code-link: true
