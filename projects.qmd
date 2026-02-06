@@ -1,11 +1,9 @@
----
-editor: source
----
+Members of the PRiME groups are open to supervising BSc and MMath projects in Mathematics Education *subject to discussion*.
 
-# BSc Projects
+## BSc Projects
 
-+ *An Analysis of Gender-Related Differences in Mathematics Education: Uptake Rates of Voluntary Further Study & Subsequent Attainment* [Liam Jones, Tamsin Smith, 2024].
+- **Liam Jones** & **Tamsin Smith**, 2024, *An Analysis of Gender-Related Differences in Mathematics Education: Uptake Rates of Voluntary Further Study & Subsequent Attainment*.
 
-# MMath Projects
+## MMath Projects
 
-+ *Mathematical Modelling of Issues in the Department for Education* [Addie Baker, Waleed Ali, 2025, in collaboration with AIMS]
+- **Addie Baker** & **Waleed Ali**, 2025, *Mathematical Modelling of Issues in the Department for Education* (in collaboration with AIMS).

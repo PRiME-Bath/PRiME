@@ -20,7 +20,6 @@ $purple:  #170C3A !default;
 $pink:    #A52C60 !default;
 $red:     #CF4446 !default;
 $orange:  #EE6A24 !default;
-$light-orange:  #FB9E07 !default;
 $yellow:  #F6D645 !default;
 $green:   #118230 !default;
 $teal:    #068194 !default;
@@ -36,10 +35,10 @@ $light:     $gray-400 !default;
 $dark:      $black !default;
 
 // Links
-$link-color: $primary !default;
-$link-decoration: none !default;
-$link-hover-color: $red !default;
-$link-hover-decoration: underline !default;
+$link-color: $blue;
+$link-decoration: underline;
+$link-hover-color: $red;
+$link-hover-decoration: underline;
 
 // Footer
 $footer-bg: $gray-900 !default;
@@ -56,12 +55,7 @@ $toc-font-size: 1em;
 // Code copy
 $btn-code-copy-color-active: $orange !default;
 
-
-
-
-
 /*-- scss:rules --*/
-
 
 .nav-footer {
     align-items: flex-start;  // Align all flex items to the top

@@ -1,216 +1,310 @@
----
-editor: source
----
-
 All seminars are held in **Wolfson Lecture Theatre 4W 1.7** on **Wednesdays 13:15-14:05**.
 
 The seminar schedule will be updated throughout the year and can be accessed on this page.
 
-<br>
+# Upcoming Seminars {.unnumbered}
 
-## Upcoming Seminars {.unnumbered}
+## **11/02/2026** Developing a Repository of Maths Teaching Resources Embedding EDI
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Ilaria Bussoli](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
 
-<!-- ### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, Ilaria Bussoli (University of Bath) -->
-
-<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
-<!-- TBC -->
-<!-- ::: -->
-
-<!-- ### ![](images/logos/Bath-Logo.png){width=100px} 18/02/2026 - TBC, Ruth Hand (University of Bath Skills Centre) -->
-
-<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
-<!-- TBC -->
-<!-- ::: -->
-
-<!-- ### ![](images/logos/OU-Logo.png){width=100px} 11/03/2026 - TBC, Brigitte Stenhouse (The Open University) -->
-
-<!-- :::{.callout-note title="Speaker:  Brigitte Stenhouse" icon=false collapse=true} -->
-<!-- [Brigitte Stenhouse](https://sites.google.com/view/brigitte-stenhouse/home) is a historian of mathematics who is curious about how mathematicians build communities and gatekeep knowledge. -->
-<!-- ::: -->
-
-<!-- :::{.callout-note title="Asbtract" icon=false collapse=true} -->
-<!-- TBC -->
-<!-- ::: -->
-
-### ![](images/logos/Bath-Logo.png){width=100px} 11/02/2026 - TBC, *Ilaria Bussoli*
-
-:::{.callout-note title="Speaker:  Ilaria Bussoli" icon=false collapse=true}
-
+**Abstract**:  In this talk, I will talk about the on-going teaching resources repository project developed by members of the History for Inclusion & Diversity in Mathematics (HIDIM) network ([History For Inclusion & Diversity in Mathematics Network](https://mathshist4edi.wp.st-andrews.ac.uk/)), and my contribution to it. This is a repository of mathematical and statistical teaching resources that embed Equity, Diversity and Inclusion (EDI) content to diversify sub honours modules in maths curricula. I will discuss the principles behind it, how you can engage with it, and how this fits within the scope of the HIDIM network.
+:::
 :::
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
-TBC
+***
+
+## **04/03/2026** Re-engagement Tutorials: Piloting A Dual Tutorial Model
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
 :::
-
-<br>
-
-### ![](images/logos/Bath-Logo.png){width=100px} 04/03/2026 - Re-engagement Tutorials: Piloting A Dual Tutorial Model, *Thomas Cottrell*, *Tamsin Smith*, *Ruth Wye* & *Ameen Hassan*
-
-:::{.callout-note title="Speakers:  Thomas Cottrell, Tamsin Smith, Ruth Wye & Ameen Hassan" icon=false collapse=true}
-
+:::{.column width=2%}
 :::
+:::{.column width=88%}
+**Speakers**:  [Thomas Cottrell](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/), [Tamsin Smith](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/), [Ruth Wye](https://researchportal.bath.ac.uk/en/persons/ruth-wye/) & [Ameen Hassan](https://researchportal.bath.ac.uk/en/persons/ameen-hassan/)
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
-Over recent semesters, the Department of Mathematical Sciences has observed a consistent decline in tutorial attendance beyond the mid-semester point, suggesting that many students disengage after falling behind with course material. To address this challenge, we piloted for an alternative model for year 1algebra tutorials that ran alongside the standard model. This opportunity provided focused, slower-paced delivery with personalised revision, and confidence-building support.
+**Abstract**:  Over recent semesters, the Department of Mathematical Sciences has observed a consistent decline in tutorial attendance beyond the mid-semester point, suggesting that many students disengage after falling behind with course material. To address this challenge, we piloted for an alternative model for year 1 algebra tutorials that ran alongside the standard model. This opportunity provided focused, slower-paced delivery with personalised revision, and confidence-building support.
 
 In this talk we will discuss the rationale and implementation of this pilot and reflect on the successes and challenges.
 
 This pilot project was funded by the Teaching Development Fund.
 :::
-
-<br>
-
-### ![](images/logos/Edinburgh-Logo.png){width=100px} 25/03/2026 - TBC, *Paola Iannone*
-
-:::{.callout-note title="Speaker:  Paola Iannone" icon=false collapse=true}
-[Paola Inannone](https://www.research.ed.ac.uk/en/persons/paola-iannone) completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). She was then appointed for three years as a Teaching Fellow in the Mathematics department at UEA, and later became a Senior Research Assistant in the School of Education still at UEA until she was appointed to a Lectureship in Educational Research in 2007 and then to a Senior Lectureship in 2012. She was a Senior Lecturer in Mathematics Education at Loughborough University in 2016. In 2023, she moved to the School of Mathematics at the University of Edinburgh to take up a Readership in the Technology Enhanced Mathematical Sciences Education group.
 :::
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
-TBC
+***
+
+## **25/03/2026 Distinguished Seminar Series** Oral Assessment of Mathematics at University and its Role in a Transitions to Proof Course
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Edinburgh-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speakers**:  [Paola Iannone](https://www.research.ed.ac.uk/en/persons/paola-iannone/) is  Professor of Mathematics Education in the School of Mathematics at the University of Edinburgh and the Head of the The Technology Enhanced Mathematical Sciences Education Theme. She is  also visiting fellow in  the School of Education and Lifelong Learning at the University of East Anglia. Paola completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). Her research focuses on the teaching and learning of mathematics at university level and has three strands:
+
+- Summative assessment of mathematics at university with focus on the impact of the discipline of study and student epistemological beliefs on their perceptions of assessment and the use of oral assessment in university mathematics,
+- Mathematical reasoning and technology in university mathematics (use of automated theorem provers such as Lean - CAA assessment),
+- The transition from school to university mathematics.
+
+**Abstract**:  TBC
+:::
 :::
 
-<br>
+***
 
-## Previous Seminars {.unnumbered}
+# Previous Seminars
 
 :::{.panel-tabset}
 
-### Academic Year 2025/6 {.unnumbered}
+## Academic Year 2025/2026
 
-#### ![](images/logos/UEA-Logo.png){width=100px} 08/10/2025 - MathTASK: Challenging Students’ Discourses About Mathematics and its Pedagogy
-
+### 08/10/2025 - MathTASK: Challenging Students’ Discourses About Mathematics and its Pedagogy
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/UEA-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Irene Biza](https://research-portal.uea.ac.uk/en/persons/irene-biza)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Some mathematics undergraduate programs include in their syllabi also courses on mathematics education. The motivation for such courses is to introduce mathematics students to the field of mathematics education research or/and to prepare them for mathematics teaching. Research in mathematics education, however, is a very different enterprise from research in mathematics. For example, in mathematics education, much research focuses on human interactions and the social, cultural and educational contexts in which these interactions take place. While there is some attention to mathematical errors students make, there is also more focus on the reasons behind the error. Approaches are more relativist on what constitutes knowledge and evidence is not in the form of ‘proof’ as we know in mathematics. Balancing attention to the practices of mathematics (what I will call mathematical discourses) with attention to the practices for the teaching and learning of mathematics (what I will call pedagogical discourses) is an exciting challenge.  In this session, I will discuss how I address this challenge in a course that introduces mathematics education to undergraduate mathematics students. Specifically, I will share examples of course activities that draw on the principles of the [MathTASK](https://www.uea.ac.uk/groups-and-centres/a-z/mathtask), a research and development programme that I co-lead at UEA. In MathTASK, we engage teachers or students with fictional but realistic classroom situations and ask them to reflect on these situations (we call these activities “mathtasks”). We will discuss one or more mathtasks inspired by current debates on the impact of genAI on students’ development of mathematical problem-solving skills.
 :::
+:::
+:::
 
-#### ![](images/logos/Cardiff-Logo.png){width=100px} 19/11/2025 - Flipping the Foundations, Robert Wilson
+***
 
+### 19/11/2025 - Flipping the Foundations
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Cardiff-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Robert Wilson](https://profiles.cardiff.ac.uk/staff/wilsonrh)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
-This presentation will discuss a reimagining of a large, core, undergraduate mathematics module by implementing a flipped learning approach. Specific focus for the session will include: 
+This presentation will discuss a re-imagining of a large, core, undergraduate mathematics module by implementing a flipped learning approach. Specific focus for the session will include: 
 
-+ the rationale behind the change;
-+ highlighting examples of the activities and resources developed;
-+ the impact on learners (and facilitators);
-+ potential future enhancements and challenges. 
+- the rationale behind the change;
+- highlighting examples of the activities and resources developed;
+- the impact on learners (and facilitators);
+- potential future enhancements and challenges. 
 
 There will also be significant opportunity to discuss and debate the ideas raised in further detail. 
 :::
+:::
+:::
 
-### Academic Year 2024/5 {.unnumbered}
+## Academic Year 2024/2025
 
-#### ![](images/logos/Bath-Logo.png){width=100px} 13/11/2024 - Statistical Models For Improving Maths Tests
-
+### 13/11/2024 - Statistical Models For Improving Maths Tests
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Adam Coates](https://researchportal.bath.ac.uk/en/persons/adam-coates)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 In virtually all teaching contexts where instructors design their own classroom assessments, a combination of common-sense, intuition, and heuristics are used to decide whether the test was fit for purpose. There are, however, methods from the field of psychometrics which can be used to more objectively judge whether a test is working well and indicate areas for potential improvement. This seminar will first outline common practices in university assessment, then introduce item-response theory and diagnostic classification modelling as tools which can be used to improve these practices.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Bath-Logo.png){width=100px} 20/11/2024 - HEA Fellowships in Maths
-
+### 20/11/2024 - HEA Fellowships in Maths
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Waleed Ali](https://researchportal.bath.ac.uk/en/persons/waleed-ali)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 This session will be open to everyone; staff, postgraduate students and anyone involved in teaching or teaching-based leadership roles. I will be giving an overview about applying for HEA Fellowships, especially after the release of the new specifications that will take effect in January 2025. The session will cover all the requirements for applying for the different HEA accreditations that the university provides (Associate Fellow, Fellow and Senior Fellow); following, there will be a Q&A session where I'll answer any questions you might have about the accreditation process.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Warwick-Logo.png){width=100px} 26/02/2025 - Filling the Gap: Finding Your Niche
-
+### 26/02/2025 - Filling the Gap: Finding Your Niche
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Warwick-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Kat Phillips](https://katdoesmaths.me/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 As academics we are continually taught to push the boundaries on current knowledge with our research, through either seeing where improvements can be made with current methods or scoping out underserved areas of the field. This attitude, combined with the ethos of 'keeping things fun', has served me well not only in my research, but in the rest of my life as well. Alongside my PhD I began developing my career as a maths communicator and academic advocate under the name 'KatDoesMaths'. In this talk I want to share with you some of the projects I've created and been involved with, and the things I learnt along the way (including the good, the bad, and the ugly!) I will also highlight some useful tips and tricks that have been invaluable to me in all styles of communication practice.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/OU-Logo.png){width=100px} 26/03/2025 - Understanding and Promoting Meaningful Learning Experiences in Undergraduate Mathematical Education
-
+### 26/03/2025 - Understanding and Promoting Meaningful Learning Experiences in Undergraduate Mathematical Education
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/OU-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Cathy Smith](https://profiles.open.ac.uk/cathy-smith)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Mathematics lecturers rarely have a background in education theory, nor the time to learn how to read it. But without awareness of theory, our scholarship of teaching and learning can be limited in its criticality and its comprehensibility to others. This seminar offers a gentle introduction to one theoretical framing of learning – Garrison's Community of Inquiry - chosen because it has been widely used to analyse blended and online learning, including in some of my own work. At its simplest, the framework suggests attending to the three dimensions of social, teaching and cognitive presence in an educational situation. The seminar will cover definitions of these dimensions, some examples (from 2018 onwards) of how I and others have used it specifically in mathematics, with time for thoughts and questions about its relevance and/or limitations.
 :::
+:::
+:::
 
-### Academic Year 2023/4 {.unnumbered}
+## Academic Year 2023/4 {.unnumbered}
 
-#### ![](images/logos/Bath-Logo.png){width=100px} 01/11/2023 - Interactive Mathematics with VisualPDE
-
+### 01/11/2023 - Interactive Mathematics with VisualPDE
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Ben Walker](https://benjaminwalker.info/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Ben introduces us to [VisualPDE](https://visualpde.com/), an online resource he has developed for exploring, teaching, and broadly communicating partial differential equations. This resource is already being used in universities in the UK and worldwide and hopes to bring rich interactivity to a subject where there are often high barriers to entry. Unlike most seminars, Ben encouraged participants to bring along a smartphone, tablet or laptop to the session, so that they could interact with the site and play with PDEs, live on their device.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Bath-Logo.png){width=100px} 15/11/2023 - Generative AI in Mathematics Teaching & Learning
-
+### 15/11/2023 - Generative AI in Mathematics Teaching & Learning
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Ben Adams](https://people.bath.ac.uk/ba224/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Ben will present a summary of some recent articles that explore the performance of generative AI on school and university mathematical problems. This may be a first step towards understanding the role of generative AI in our own teaching and assessment practice.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Cardiff-Logo.png){width=100px} 13/12/2023 - Promoting Participation With Statistics: Innovations for Teaching
-
+### 13/12/2023 - Promoting Participation With Statistics: Innovations for Teaching
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Cardiff-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [William Kay](https://willpkay.weebly.com/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Statistics is a key skill for bioscience students, but for this audience, learning statistics is typically challenging. Many students suffer from "statistics anxiety", and tackling this is barrier to learning is hence a priority. In Cardiff University's School of Biosciences, we are working to design a remodelled "spiral curriculum" for biostatistics. In this seminar I will present some of the new pedagogic approaches that I have been developing to facilitate this approach, as well as the ways that I am working to mitigate and overcome statistics anxiety in our students. These approaches include embedding statistics in biological practicals and assessments, providing tailored support at Undergraduate Data Clinics, and designing "Statistics Shorts". More broadly, I will touch on several other of the pedagogic approaches that have been shown to make statistics not only understandable, but also enjoyable. Finally, I will share some insights into my own (challenging) history of learning statistics, and highlight how an empathetic and compassionate approach can make all the difference.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Loughborough-Logo.png){width=100px} 28/02/2024 - Making Mathematics Lectures More Engaging
-
+### 28/02/2024 - Making Mathematics Lectures More Engaging
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Loughborough-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Lara Alcock](https://laraalcock.com/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 This talk will cover 18 simple practices that can be used to make ordinary mathematics lectures more engaging. It will start with general principles and organisational matters, then provide illustrations of short, snappy in-lecture activities that can be adapted for any topic. These activities require minimal planning, they work individually or together, and they can be incorporated into lectures in standard ways. They are also aligned with research on effective learning, and the talk will include light-touch comments on related research evidence.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Bath-Logo.png){width=100px} 13/03/2024 - How to Start in the World of Mathematics Education Research
-
+### 13/03/2024 - How to Start in the World of Mathematics Education Research
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Evi Papadaki](https://papadakievi.github.io/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 Navigating the world of Mathematics Education Research as a novice can feel both exciting and confusing at the same time. The aim of the talk is to map out the field of Mathematics Education Research through a collection of examples and personal experiences. First, I will highlight what sets Mathematics Education Research apart from Educational Research. I will aim to answer questions I had as a newcomer with practical examples. Then, we will work together on finding ways to embed practice-based research in our teaching practice. We will consider personal interests in conjunction with practical limitations such as time and resources. Finally, I will conclude with tips and resources that could help you find your own path.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Leeds-Logo.png){width=100px} 27/03/2024 - How to Think Like a Mathematician 
-
+### 27/03/2024 - How to Think Like a Mathematician
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Leeds-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Kevin Houston](https://www.kevinhouston.net/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 In this talk, Kevin will speak about the transition from school to university-level mathematics and highlight the reasons why it can be a daunting journey for many students. This talk aims to provide insights into what Kevin has done to ease this transition for his students. He will explore the key differences between school and university mathematics and describe practical strategies for teaching logical thinking, dealing with proof, and presenting mathematics in oral and written forms.
 :::
+:::
+:::
 
-<br>
+***
 
-#### ![](images/logos/Warwick-Logo.png){width=100px} 10/04/2024 - Students as Agents of Change: Partners & Researchers
-
+### 10/04/2024 - Students as Agents of Change: Partners & Researchers
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Warwick-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
 **Speaker:** [Martyn Parker](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/parker/)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
 In this talk, I will explore how we developed and deployed our department's new Student Engagement and Community strategy. The strategy aims to create a culture of opportunities to ensure our students are fully active participants in various decision-making, initiatives, and projects, including developing and enhancing their experience and community. The work has supported individual, curriculum, community, and departmental developments that connect our students with, for example, research, other departments, and university decision-makers.
 
 This strategy has proved fruitful in engaging students in research projects driven by external and regulatory priorities. Discipline-specific pedagogy can be overlooked in these cases, but these projects provide a solid evidence base for informed judgements. I will highlight a few successes delivered by our student researchers and the benefits this approach has brought to the department and institution.
+:::
+:::
 :::
 
 :::

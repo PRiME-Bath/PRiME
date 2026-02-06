@@ -1,7 +1,7 @@
 project:
     type: website
     output-dir: "docs"
-    preview: 
+    preview:
         port: 22222
         browser: true
         watch-inputs: true
@@ -15,8 +15,6 @@ website:
     navbar:
         pinned: true
         left:
-            - text: "Home"
-              href: index.qmd
             - text: "People"
               href: people.qmd
             - text: "Seminars"
@@ -32,7 +30,7 @@ website:
               aria-label: email   
               href: "mailto:PRiME@bath.ac.uk"
     page-footer: 
-        left: "Department of Mathematical Sciences <br> PRiME group" 
+        left: "Department of Mathematical Sciences <br> PRiME Group" 
         border: false
         background: light
         right: | 
@@ -45,9 +43,9 @@ website:
 format:
     html:
         theme: [pulse, styles.scss]
-        fontsize: 1.25rem
-        page-layout: full
-        css: styles.css
+        grid:
+            body-width: 1600px
+        fontsize: 1.2rem
         toc: false
         code-link: true
         anchor-sections: true
@@ -56,4 +54,3 @@ format:
         footnotes-hover: true
 
 editor: source
-

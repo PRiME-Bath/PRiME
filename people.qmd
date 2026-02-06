@@ -1,79 +1,162 @@
----
-editor: source
----
 
-::: {.panel-tabset}
+:::{.panel-tabset}
 
 # **Current Members**
 
-```{=html}
-<table>
+:::{.columns}
+:::{.column width=35%}
+[![](images/waleed_ali.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/waleed-ali/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Waleed A Ali** [w.a.a.ali@bath.ac.uk](mailto:w.a.a.ali@bath.ac.uk)
 
-  <tr>
-    <td><img src="images/waleed_ali.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/waleed-ali', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Waleed Ali [<a href="mailto:waaa21@bath.ac.uk">waaa21@bath.ac.uk</a>]</strong><br>I am an applied mathematician, specialising in fluid dyanmics and hydrodynamic stability theory.  My career progression and interests have started to shift more into mathematics education and pedagogy, and making mathematics more appealing to undergraduates and those in the general public.  My roles in the department are as a lecturer in pure and applied mathematics, Outreach & Widening Particpation and the HEA Champion.</td>
-  </tr>
+I am an applied mathematician, specialising in fluid dynamics and hydrodynamic stability theory.  My career progression and interests have started to shift more into mathematics education and pedagogy, and making mathematics more appealing to undergraduates and those in the general public.  My roles in the department are as a lecturer in pure and applied mathematics, Outreach & Widening Participation and the HEA Champion.
+:::
+:::
 
-  <tr>
-    <td><img src="images/ilaria_bussoli.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Ilaria Bussoli [<a href="mailto:ib641@bath.ac.uk">ib641@bath.ac.uk</a>]</strong><br>I am keen in exploring innovative and inclusive ways to make statistics more approachable to students, from gamification and hands-on activities to embedded history of Mathematics and Statistics and interactive lecture material. My focus is mostly on students without a mathematical background, and how to support them better in their learning path.</td>
-  </tr>
+***
 
-  <tr>
-    <td><img src="images/thomas_cottrell.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/thomas-cottrell', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Thomas Cottrell [<a href="mailto:tpc40@bath.ac.uk">tpc40@bath.ac.uk</a>]</strong><br>I am a pure mathematician with a background in category theory, a branch of maths in which the processes of proving and understanding a statement go hand-in-hand. Studying category theory gave me a strong sense of what does (or doesn't) constitute a well-expressed mathematical definition or proof – this led me to an interest in mathematical reading, writing and thinking, and how students develop these skills. I am also interested in the transition from school to university level, with the majority of my teaching experience being in courses for first-year maths undergraduates.</td>
-  </tr>
+:::{.columns}
+:::{.column width=35%}
+[![](images/ilaria_bussoli.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Ilaria Bussoli** [ib641@bath.ac.uk](mailto:ib641@bath.ac.uk)
 
-  <tr>
-    <td><img src="images/james_foadi.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/james-foadi', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>James Foadi [<a href="mailto:jf850@bath.ac.uk">jf850@bath.ac.uk</a>]</strong><br>I am an ex-theoretical physicist who sold his soul to theoretical crystallography and lately to mathematical education. I am interested in new educational and pedagogical approaches to assessment and feedback in Mathematics courses, as well as History of Mathematics.</td>
-  </tr>
+I am keen in exploring innovative and inclusive ways to make statistics more approachable to students, from gamification and hands-on activities to embedded history of Mathematics and Statistics and interactive lecture material. My focus is mostly on students without a mathematical background, and how to support them better in their learning path.
+:::
+:::
 
-  <tr>
-    <td><img src="images/mason_pember.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/mason-pember', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Mason Pember [<a href="mailto:mp312@bath.ac.uk">mp312@bath.ac.uk</a>]</strong><br>I want to explore innovative teaching methods that are inclusive and inspire students to pursue learning beyond their degree. I am particularly interested in methods that provoke creativity.</td>
-  </tr>
+***
 
-  <tr>
-    <td><img src="images/simon_shaw.jpeg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://https://researchportal.bath.ac.uk/en/persons/simon-shaw/', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Simon Shaw [<a href="mailto:s.shaw@bath.ac.uk">s.shaw@bath.ac.uk</a>]</strong><br>My interests lie in Bayesian approaches to statistics, in particular Bayes linear methods, the analysis of collections of (second-order) exchangeable sequences, graphical models and uses of conditional independence.</td>
-  </tr>
+:::{.columns}
+:::{.column width=35%}
+[![](images/thomas_cottrell.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Thomas Cottrell** [tpc40@bath.ac.uk](mailto:tpc40@bath.ac.uk)
 
-  <tr>
-    <td><img src="images/tamsin_smith.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/tamsin-smith', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Tamsin Smith [<a href="mailto:tls35@bath.ac.uk">tls35@bath.ac.uk</a>]</strong><br>I am eager to explore how mathematics is learned and taught, especially regarding the shift in approach that students encounter when transitioning from school to higher education. I’m also interested in experimenting with innovative educational practices and assessment methods to enhance the student experience and improve outcomes.</td>
-  </tr>
+I am a pure mathematician with a background in category theory, a branch of maths in which the processes of proving and understanding a statement go hand-in-hand. Studying category theory gave me a strong sense of what does (or doesn't) constitute a well-expressed mathematical definition or proof – this led me to an interest in mathematical reading, writing and thinking, and how students develop these skills. I am also interested in the transition from school to university level, with the majority of my teaching experience being in courses for first-year maths undergraduates.
+:::
+:::
 
-    <tr>
-    <td><img src="images/ben_sparks.jpg" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://www.bensparks.co.uk/', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Ben Sparks [<a href="mailto:bjs55@bath.ac.uk">bjs55@bath.ac.uk</a>]</strong><br>I am a mathematician, musician, and public speaker. I give maths talks and workshops around the world, to students, teachers, and the general public. I am part freelance and part-time with the University of Bath where I am teaching on the Communicating Maths course, together with Tamsin Smith.</td>
-  </tr>
+***
 
-  <tr>
-    <td><img src="images/jane_white.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer;" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/jane-white', 'blank');"/></td>
-    <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Jane White [<a href="mailto:maskajw@bath.ac.uk">maskajw@bath.ac.uk</a>]</strong><br>I am interested in progression of assessment activity through UG programmes and assessment for learning. I am keen on developing the academic Education role, and for PRiME to be a voice for academic staff in the Education teaching pathways, as well as a nationally recognised Centre for Excellence in pedagogic practice for Mathematical Sciences.</td>
-  </tr>
-</table>
-```
+:::{.columns}
+:::{.column width=35%}
+[![](images/james_foadi.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/james-foadi/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**James Foadi** [jf850@bath.ac.uk](mailto:jf850@bath.ac.uk)
+
+I am an ex-theoretical physicist who sold his soul to theoretical crystallography and lately to mathematical education. I am interested in new educational and pedagogical approaches to assessment and feedback in Mathematics courses, as well as History of Mathematics.
+:::
+:::
+
+***
+
+:::{.columns}
+:::{.column width=35%}
+[![](images/mason_pember.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/mason-pember/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Mason Pember** [mp312@bath.ac.uk](mailto:mp312@bath.ac.uk)
+
+I want to explore innovative teaching methods that are inclusive and inspire students to pursue learning beyond their degree. I am particularly interested in methods that provoke creativity.
+:::
+:::
+
+***
+
+:::{.columns}
+:::{.column width=35%}
+[![](images/simon_shaw.jpeg){width=100%}](https://researchportal.bath.ac.uk/en/persons/simon-shaw/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Simon Shaw** [s.shaw@bath.ac.uk](mailto:s.shaw@bath.ac.uk)
+
+My interests lie in Bayesian approaches to statistics, in particular Bayes linear methods, the analysis of collections of (second-order) exchangeable sequences, graphical models and uses of conditional independence.
+:::
+:::
+
+***
+
+:::{.columns}
+:::{.column width=35%}
+[![](images/tamsin_smith.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Tamsin Smith** [tls35@bath.ac.uk](mailto:tls35@bath.ac.uk)
+
+I am eager to explore how mathematics is learned and taught, especially regarding the shift in approach that students encounter when transitioning from school to higher education. I’m also interested in experimenting with innovative educational practices and assessment methods to enhance the student experience and improve outcomes.
+:::
+:::
+
+***
+
+:::{.columns}
+:::{.column width=35%}
+[![](images/ben_sparks.jpg){width=100%}](https://www.bensparks.co.uk/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Ben Sparks** [bjs55@bath.ac.uk](mailto:bjs55@bath.ac.uk)
+
+I am a mathematician, musician, and public speaker. I give maths talks and workshops around the world, to students, teachers, and the general public. I am part freelance and part-time with the University of Bath where I am teaching on the Communicating Maths course, together with Tamsin Smith.
+:::
+:::
+
+***
+
+:::{.columns}
+:::{.column width=35%}
+[![](images/jane_white.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/jane-white/)
+:::
+:::{.column width=5%}
+:::
+:::{.column width=60%}
+**Jane White** [maskajw@bath.ac.uk](mailto:maskajw@bath.ac.uk)
+
+I am interested in progression of assessment activity through UG programmes and assessment for learning. I am keen on developing the academic Education role, and for PRiME to be a voice for academic staff in the Education teaching pathways, as well as a nationally recognised Centre for Excellence in pedagogic practice for Mathematical Sciences.
+:::
+:::
 
 # **Former Members**
 
-Evi Papadaki
-
+:::{.columns}
+:::{.column width=20% text-align=center}
+<center>
+[![](images/anna_daupare.png){width=100%}](https://www.linkedin.com/in/anna-daupare-363a60292/)
 Anna Daupare
+</center>
+:::
+
+:::{.column width=1%}
+:::
+
+:::{.column width=20% text-align=center}
+<center>
+[![](images/evi_papadaki.png){width=100%}](https://www.linkedin.com/in/evi-papadaki/)
+Evi Papadaki
+</center>
+:::
 
 :::
- 
- 
-  <!--  <tr> -->
-  <!--   <td><img src="images/evi_papadaki.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/evi-papadaki', 'blank');"/></td> -->
-  <!--   <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Evi Papadaki [<a href="mailto:pp949@bath.ac.uk">pp949@bath.ac.uk</a>]</strong><br>I am interested in Mathematics Education research in HE, and issues of transition from school to University, and from University to career and employment. As part of the PRiME group, I like to support mathematicians find their voice and/or path in Mathematics Education and practice-based research.</td> -->
-  <!-- </tr> -->
 
-  
-  <!--   <tr> -->
-  <!--   <td><img src="images/anna_daupare.png" style="height: 90%; width: 90%; object-fit: contain; cursor: pointer" onclick="window.open('https://researchportal.bath.ac.uk/en/persons/anna-daupare', 'blank');"/></td> -->
-  <!--   <td style="vertical-align: middle; text-align: left; width: 300px; word-wrap: break-word"><strong>Anna Daupare</strong><br> hello hello hello hello hello hello hellooooo</td> -->
-  <!-- </tr> -->
-  
 
+:::
