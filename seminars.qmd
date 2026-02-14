@@ -4,24 +4,6 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 # Upcoming Seminars {.unnumbered}
 
-## **11/02/2026** Developing a Repository of Maths Teaching Resources Embedding EDI
-:::{.columns}
-:::{.column width=10%}
-![](images/Bath-Logo.png){width=100%}
-:::
-
-:::{.column width=2%}
-:::
-
-:::{.column width=88%}
-**Speaker**:  [Ilaria Bussoli](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
-
-**Abstract**:  In this talk, I will talk about the on-going teaching resources repository project developed by members of the History for Inclusion & Diversity in Mathematics (HIDIM) network ([History For Inclusion & Diversity in Mathematics Network](https://mathshist4edi.wp.st-andrews.ac.uk/)), and my contribution to it. This is a repository of mathematical and statistical teaching resources that embed Equity, Diversity and Inclusion (EDI) content to diversify sub honours modules in maths curricula. I will discuss the principles behind it, how you can engage with it, and how this fits within the scope of the HIDIM network.
-:::
-:::
-
-***
-
 ## **04/03/2026** Re-engagement Tutorials: Piloting A Dual Tutorial Model
 :::{.columns}
 :::{.column width=10%}
@@ -66,9 +48,9 @@ This pilot project was funded by the Teaching Development Fund.
 
 :::{.panel-tabset}
 
-## Academic Year 2025/2026
+## 2025/2026
 
-### 08/10/2025 - MathTASK: Challenging Students’ Discourses About Mathematics and its Pedagogy
+### **08/10/2025** MathTASK: Challenging Students’ Discourses About Mathematics and its Pedagogy
 :::{.columns}
 :::{.column width=10%}
 ![](images/UEA-Logo.png){width=100%}
@@ -86,7 +68,7 @@ Some mathematics undergraduate programs include in their syllabi also courses on
 
 ***
 
-### 19/11/2025 - Flipping the Foundations
+### **19/11/2025** Flipping the Foundations
 :::{.columns}
 :::{.column width=10%}
 ![](images/Cardiff-Logo.png){width=100%}
@@ -109,9 +91,29 @@ There will also be significant opportunity to discuss and debate the ideas raise
 :::
 :::
 
-## Academic Year 2024/2025
+***
 
-### 13/11/2024 - Statistical Models For Improving Maths Tests
+### **11/02/2026** Developing a Repository of Maths Teaching Resources Embedding EDI
+:::{.columns}
+:::{.column width=10%}
+![](images/Bath-Logo.png){width=100%}
+:::
+
+:::{.column width=2%}
+:::
+
+:::{.column width=88%}
+**Speaker**:  [Ilaria Bussoli](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+In this talk, I will talk about the on-going teaching resources repository project developed by members of the History for Inclusion & Diversity in Mathematics (HIDIM) network ([History For Inclusion & Diversity in Mathematics Network](https://mathshist4edi.wp.st-andrews.ac.uk/)), and my contribution to it. This is a repository of mathematical and statistical teaching resources that embed Equity, Diversity and Inclusion (EDI) content to diversify sub honours modules in maths curricula. I will discuss the principles behind it, how you can engage with it, and how this fits within the scope of the HIDIM network.
+:::
+:::
+:::
+
+## 2024/2025
+
+### **13/11/2024** Statistical Models For Improving Maths Tests
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -129,7 +131,7 @@ In virtually all teaching contexts where instructors design their own classroom 
 
 ***
 
-### 20/11/2024 - HEA Fellowships in Maths
+### **20/11/2024** HEA Fellowships in Maths
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -147,7 +149,7 @@ This session will be open to everyone; staff, postgraduate students and anyone i
 
 ***
 
-### 26/02/2025 - Filling the Gap: Finding Your Niche
+### **26/02/2025** Filling the Gap: Finding Your Niche
 :::{.columns}
 :::{.column width=10%}
 ![](images/Warwick-Logo.png){width=100%}
@@ -165,7 +167,7 @@ As academics we are continually taught to push the boundaries on current knowled
 
 ***
 
-### 26/03/2025 - Understanding and Promoting Meaningful Learning Experiences in Undergraduate Mathematical Education
+### **26/03/2025** Understanding and Promoting Meaningful Learning Experiences in Undergraduate Mathematical Education
 :::{.columns}
 :::{.column width=10%}
 ![](images/OU-Logo.png){width=100%}
@@ -181,9 +183,9 @@ Mathematics lecturers rarely have a background in education theory, nor the time
 :::
 :::
 
-## Academic Year 2023/4 {.unnumbered}
+## 2023/2024
 
-### 01/11/2023 - Interactive Mathematics with VisualPDE
+### **01/11/2023** Interactive Mathematics with VisualPDE
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -201,7 +203,7 @@ Ben introduces us to [VisualPDE](https://visualpde.com/), an online resource he 
 
 ***
 
-### 15/11/2023 - Generative AI in Mathematics Teaching & Learning
+### **15/11/2023** Generative AI in Mathematics Teaching & Learning
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -219,7 +221,7 @@ Ben will present a summary of some recent articles that explore the performance 
 
 ***
 
-### 13/12/2023 - Promoting Participation With Statistics: Innovations for Teaching
+### **13/12/2023** Promoting Participation With Statistics: Innovations for Teaching
 :::{.columns}
 :::{.column width=10%}
 ![](images/Cardiff-Logo.png){width=100%}
@@ -237,7 +239,7 @@ Statistics is a key skill for bioscience students, but for this audience, learni
 
 ***
 
-### 28/02/2024 - Making Mathematics Lectures More Engaging
+### **28/02/2024** Making Mathematics Lectures More Engaging
 :::{.columns}
 :::{.column width=10%}
 ![](images/Loughborough-Logo.png){width=100%}
@@ -255,7 +257,7 @@ This talk will cover 18 simple practices that can be used to make ordinary mathe
 
 ***
 
-### 13/03/2024 - How to Start in the World of Mathematics Education Research
+### **13/03/2024** How to Start in the World of Mathematics Education Research
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -273,7 +275,7 @@ Navigating the world of Mathematics Education Research as a novice can feel both
 
 ***
 
-### 27/03/2024 - How to Think Like a Mathematician
+### **27/03/2024** How to Think Like a Mathematician
 :::{.columns}
 :::{.column width=10%}
 ![](images/Leeds-Logo.png){width=100%}
@@ -291,7 +293,7 @@ In this talk, Kevin will speak about the transition from school to university-le
 
 ***
 
-### 10/04/2024 - Students as Agents of Change: Partners & Researchers
+### **10/04/2024** Students as Agents of Change: Partners & Researchers
 :::{.columns}
 :::{.column width=10%}
 ![](images/Warwick-Logo.png){width=100%}
