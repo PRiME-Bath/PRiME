@@ -4,23 +4,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 # Upcoming Seminars {.unnumbered}
 
-## **04/03/2026** Re-engagement Tutorials: Piloting A Dual Tutorial Model
-:::{.columns}
-:::{.column width=10%}
-![](images/Bath-Logo.png){width=100%}
-:::
-:::{.column width=2%}
-:::
-:::{.column width=88%}
-**Speakers**:  [Thomas Cottrell](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/), [Tamsin Smith](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/), [Ruth Wye](https://researchportal.bath.ac.uk/en/persons/ruth-wye/) & [Ameen Hassan](https://researchportal.bath.ac.uk/en/persons/ameen-hassan/)
 
-**Abstract**:  Over recent semesters, the Department of Mathematical Sciences has observed a consistent decline in tutorial attendance beyond the mid-semester point, suggesting that many students disengage after falling behind with course material. To address this challenge, we piloted for an alternative model for year 1 algebra tutorials that ran alongside the standard model. This opportunity provided focused, slower-paced delivery with personalised revision, and confidence-building support.
-
-In this talk we will discuss the rationale and implementation of this pilot and reflect on the successes and challenges.
-
-This pilot project was funded by the Teaching Development Fund.
-:::
-:::
 
 ***
 
@@ -32,16 +16,21 @@ This pilot project was funded by the Teaching Development Fund.
 :::{.column width=2%}
 :::
 :::{.column width=88%}
-**Speakers**:  [Paola Iannone](https://www.research.ed.ac.uk/en/persons/paola-iannone/) is  Professor of Mathematics Education in the School of Mathematics at the University of Edinburgh and the Head of the The Technology Enhanced Mathematical Sciences Education Theme. She is  also visiting fellow in  the School of Education and Lifelong Learning at the University of East Anglia. Paola completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). Her research focuses on the teaching and learning of mathematics at university level and has three strands:
+**Speaker**:  [Paola Iannone](https://www.research.ed.ac.uk/en/persons/paola-iannone/) is  Professor of Mathematics Education in the School of Mathematics at the University of Edinburgh and the Head of the The Technology Enhanced Mathematical Sciences Education Theme. She is  also visiting fellow in  the School of Education and Lifelong Learning at the University of East Anglia. Paola completed a first degree in mathematics at the University degli study di Roma La Sapienza (Rome - Italy) and PhD in Pure Mathematics the University of East Anglia (UEA). Her research focuses on the teaching and learning of mathematics at university level and has three strands:
 
 - Summative assessment of mathematics at university with focus on the impact of the discipline of study and student epistemological beliefs on their perceptions of assessment and the use of oral assessment in university mathematics,
 - Mathematical reasoning and technology in university mathematics (use of automated theorem provers such as Lean - CAA assessment),
 - The transition from school to university mathematics.
 
-**Abstract**:  TBC
+:::{.callout-note title="Abstract" icon=false collapse=false}
+TBC
+:::
 :::
 :::
 
+<!----------------------------------------------------------------------------->
+
+***
 ***
 
 # Previous Seminars
@@ -111,6 +100,32 @@ In this talk, I will talk about the on-going teaching resources repository proje
 :::
 :::
 
+***
+
+### **04/03/2026** Re-engagement Tutorials: Piloting A Dual Tutorial Model
+:::{.columns}
+:::{.column width=10%}
+![](images/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speakers**:  [Thomas Cottrell](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/), [Tamsin Smith](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/), [Ruth Wye](https://researchportal.bath.ac.uk/en/persons/ruth-wye/) & [Ameen Hassan](https://researchportal.bath.ac.uk/en/persons/ameen-hassan/)
+
+**Recording**:  [Link](https://teams.microsoft.com/l/meetingrecap?driveId=b%21AcvU60qEK0uyhI_SyqwRek6ue9ig81FOgtv2R8MJVQnS8NJ-H1TpRqZrRRZcHxAm&driveItemId=01VNQFUURDCWV6A4VY6RF22OMCMNHY6N25&sitePath=https%3A%2F%2Fcomputingservices-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Ftls35_bath_ac_uk%2FIQAjFavgcrj0S605gmNPjzddAc4aYXOpXQGtq7x4Y6TpJG0&fileUrl=https%3A%2F%2Fcomputingservices-my.sharepoint.com%2Fpersonal%2Ftls35_bath_ac_uk%2FDocuments%2FRecordings%2FReengagement+tutorials+Seminar-20260304_131808-Meeting+Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00800000000B75A115ED5ABDC010000000000000000100000008745CDF348BB9E4082A56843DAD538A3&threadId=19%3Ameeting_MTYwOWJhMTAtYmYyNi00ZjQxLTliYzUtZTNlZWY1NDgyMjZh%40thread.v2&organizerId=ecc800ca-2608-4db3-b8ee-813070b681cf&tenantId=377e3d22-4ea1-422d-b0ad-8fcc89406b9e&callId=05d64559-e7e5-4b0e-8989-1a8414bd097c&threadType=Meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+Over recent semesters, the Department of Mathematical Sciences has observed a consistent decline in tutorial attendance beyond the mid-semester point, suggesting that many students disengage after falling behind with course material. To address this challenge, we piloted for an alternative model for year 1 algebra tutorials that ran alongside the standard model. This opportunity provided focused, slower-paced delivery with personalised revision, and confidence-building support.
+
+In this talk we will discuss the rationale and implementation of this pilot and reflect on the successes and challenges.
+
+This pilot project was funded by the Teaching Development Fund.
+:::
+:::
+:::
+
+<!----------------------------------------------------------------------------->
+
 ## 2024/2025
 
 ### **13/11/2024** Statistical Models For Improving Maths Tests
@@ -142,7 +157,7 @@ In virtually all teaching contexts where instructors design their own classroom 
 **Speaker:** [Waleed Ali](https://researchportal.bath.ac.uk/en/persons/waleed-ali)
 
 :::{.callout-note title="Abstract" icon=false collapse=true}
-This session will be open to everyone; staff, postgraduate students and anyone involved in teaching or teaching-based leadership roles. I will be giving an overview about applying for HEA Fellowships, especially after the release of the new specifications that will take effect in January 2025. The session will cover all the requirements for applying for the different HEA accreditations that the university provides (Associate Fellow, Fellow and Senior Fellow); following, there will be a Q&A session where I'll answer any questions you might have about the accreditation process.
+This session will be open to everyone; staff, postgraduate students and anyone involved in teaching or teaching-based leadership roles. I will be giving an overview about applying for HEA Fellowships, especially after the release of the new specifications that will take effect in January 2025. The session will cover all the requirements for applying for the different HEA accreditations that the university provides (Associate Fellow, Fellow and Senior Fellow); following, there will be a Q&A session where I'll answer any questions you might have about the accreditation process.  Resources can be found [here](https://prime-bath.github.io/PRiME/resources/HEA2024.html).
 :::
 :::
 :::
@@ -182,6 +197,8 @@ Mathematics lecturers rarely have a background in education theory, nor the time
 :::
 :::
 :::
+
+<!----------------------------------------------------------------------------->
 
 ## 2023/2024
 
