@@ -4,7 +4,23 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 # Upcoming Seminars {.unnumbered}
 
+***
 
+## **18/03/2026** Interactivity in the Classroom (**NOTE**:  This talk will take place at 13:15-14:05 but in **1 West North 2.4**)
+:::{.columns}
+:::{.column width=10%}
+![](images/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Waleed A Ali](https://walben-ali.github.io/waleed-ali-webpage/)
+
+:::{.callout-note title="Abstract" icon=false collapse=false}
+Engagement and interactivity of university students within the classroom has been an issue in universities, even more so in recent years.  This talk will give an overview into some of the issues that might be causing this decline, from pedagogical, physical, psychological and environmental perspectives.  This talk will aim to share some ideas that the maths department has done to increase student engagement and interactivity as well as talking about some research into the area.
+:::
+:::
+:::
 
 ***
 
