@@ -6,7 +6,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 ***
 
-## **18/03/2026** Interactivity in the Classroom (**NOTE**:  This talk will take place at 13:15-14:05 but in **1 West North 2.4**)
+## **18/03/2026** Interactivity in the Classroom (**NOTE**:  This talk is done in collaboration with PoLIS and will take place at 13:15-14:05 but in **1 West North 2.4**)
 :::{.columns}
 :::{.column width=10%}
 ![](images/Bath-Logo.png){width=100%}
@@ -24,7 +24,7 @@ Engagement and interactivity of university students within the classroom has bee
 
 ***
 
-## **25/03/2026 Distinguished Seminar Series** Oral Assessment of Mathematics at University and its Role in a Transitions to Proof Course
+## **25/03/2026 Distinguished Seminar Series** From educational research to course design: how to transfer mathematics education research findings into practice
 :::{.columns}
 :::{.column width=10%}
 ![](images/Edinburgh-Logo.png){width=100%}
@@ -39,7 +39,7 @@ Engagement and interactivity of university students within the classroom has bee
 - The transition from school to university mathematics.
 
 :::{.callout-note title="Abstract" icon=false collapse=false}
-TBC
+Many institutions have courses in the first year of mathematics degrees which are called something like ‘introduction to proof’ courses and are aimed at easing the difficult transition of students to university mathematics. In this talk I will illustrate how such courses can be designed based on educational research findings. First I will very briefly review the relevant research on transition to university mathematics, difficulties with proof and assessment at the university level. From here I will show how this research has informed the design of the course ‘Introduction to University Mathematics’ at the University of Edinburgh while discussing the structure and assessment for this course.
 :::
 :::
 :::
