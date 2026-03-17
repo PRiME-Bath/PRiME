@@ -28,7 +28,8 @@ Engagement and interactivity of university students within the classroom has bee
 
 ***
 
-## **25/03/2026 Distinguished Seminar Series** From educational research to course design: how to transfer mathematics education research findings into practice
+## **25/03/2026 Distinguished Seminar Series** Oral Assessment of Mathematics at University and its Role in a Transitions to Proof Course.
+
 :::{.columns}
 :::{.column width=10%}
 ![](images/Edinburgh-Logo.png){width=100%}
