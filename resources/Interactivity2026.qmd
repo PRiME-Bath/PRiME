@@ -1,0 +1,14 @@
+---
+title: "Interactivity in the Classroom"
+description: "A seminar given the the Department of Politics, Languages & International Studies"
+author: "Waleed A Ali"
+date: 03/18/2026
+draft: false
+editor: source
+categories:
+    - Interactivity
+---
+
+<br>
+
+This was a talk given the Department of Politics, Languages & International Studies on interactivity in the classroom and the possible differences in approaches between the sciences and social sciences.  The presentation can be found [here](https://computingservices-my.sharepoint.com/:p:/g/personal/waaa21_bath_ac_uk/IQBuDWxhjOHfQ4OQFFibiZuPAcxP_8O_S4IEsnCq899eT3U?e=Lm7qa9).

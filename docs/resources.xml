@@ -10,7 +10,26 @@
 <atom:link href="https://prime-bath.github.io/PRiME/resources.xml" rel="self" type="application/rss+xml"/>
 <description>Practice-based research group in mathematical sciences education and pedagogy</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 06 Dec 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Interactivity in the Classroom</title>
+  <dc:creator>Waleed A Ali</dc:creator>
+  <link>https://prime-bath.github.io/PRiME/resources/Interactivity2026.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><br></p>
+<p>This was a talk given the Department of Politics, Languages &amp; International Studies on interactivity in the classroom and the possible differences in approaches between the sciences and social sciences. The presentation can be found <a href="https://computingservices-my.sharepoint.com/:p:/g/personal/waaa21_bath_ac_uk/IQBuDWxhjOHfQ4OQFFibiZuPAcxP_8O_S4IEsnCq899eT3U?e=Lm7qa9">here</a>.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>Interactivity</category>
+  <guid>https://prime-bath.github.io/PRiME/resources/Interactivity2026.html</guid>
+  <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Generating dynamic assessment questions with NUMBAS</title>
   <dc:creator>Tamsin Smith, Evi Papadaki</dc:creator>
