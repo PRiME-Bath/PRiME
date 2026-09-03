@@ -1,7 +1,3 @@
----
-editor: source
----
-
 We teach across the entire range of mathematical subjects and disciplines.  Below are the units focussed on mathematics education, history and language offered in all programs of the department (BSc/MMath in Mathematics, BSc in Mathematics and Statistics, and BSc in Mathematics, Statistics and Data Science). 
 
 ::: {.panel-tabset}
@@ -23,7 +19,7 @@ The **Connections** unit is a part of the [MA12004 Pure Mathematics 1B](https://
 - *AIMS* (Applied & Interdisciplinary Mathematics Seminars);
 - *NA+DS* (Numerical Analysis & Data Science);
 - *Statistics*;
-- *Prob@Lab* (Probability;
+- *Prob@Lab* (Probability);
 - *Analysis*;
 - *AGeNT* (Algebra, Geometry & Number Theory);
 - *PRiME* (Practice and Research in Mathematical sciences Education).

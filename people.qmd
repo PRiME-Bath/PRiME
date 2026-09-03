@@ -5,7 +5,7 @@
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/waleed_ali.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/waleed-ali/)
+[![](images/Profiles/waleed_ali.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/waleed-ali/)
 :::
 :::{.column width=5%}
 :::
@@ -20,7 +20,7 @@ I am an applied mathematician, specialising in fluid dynamics and hydrodynamic s
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/ilaria_bussoli.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
+[![](images/Profiles/ilaria_bussoli.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/ilaria-bussoli/)
 :::
 :::{.column width=5%}
 :::
@@ -35,7 +35,7 @@ I am keen in exploring innovative and inclusive ways to make statistics more app
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/thomas_cottrell.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/)
+[![](images/Profiles/thomas_cottrell.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/thomas-cottrell/)
 :::
 :::{.column width=5%}
 :::
@@ -50,7 +50,7 @@ I am a pure mathematician with a background in category theory, a branch of math
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/james_foadi.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/james-foadi/)
+[![](images/Profiles/james_foadi.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/james-foadi/)
 :::
 :::{.column width=5%}
 :::
@@ -65,7 +65,7 @@ I am an ex-theoretical physicist who sold his soul to theoretical crystallograph
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/mason_pember.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/mason-pember/)
+[![](images/Profiles/mason_pember.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/mason-pember/)
 :::
 :::{.column width=5%}
 :::
@@ -80,7 +80,7 @@ I want to explore innovative teaching methods that are inclusive and inspire stu
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/simon_shaw.jpeg){width=100%}](https://researchportal.bath.ac.uk/en/persons/simon-shaw/)
+[![](images/Profiles/simon_shaw.jpeg){width=100%}](https://researchportal.bath.ac.uk/en/persons/simon-shaw/)
 :::
 :::{.column width=5%}
 :::
@@ -95,7 +95,7 @@ My interests lie in Bayesian approaches to statistics, in particular Bayes linea
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/tamsin_smith.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/)
+[![](images/Profiles/tamsin_smith.jpg){width=100%}](https://researchportal.bath.ac.uk/en/persons/tamsin-smith/)
 :::
 :::{.column width=5%}
 :::
@@ -110,7 +110,7 @@ I am eager to explore how mathematics is learned and taught, especially regardin
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/ben_sparks.jpg){width=100%}](https://www.bensparks.co.uk/)
+[![](images/Profiles/ben_sparks.jpg){width=100%}](https://www.bensparks.co.uk/)
 :::
 :::{.column width=5%}
 :::
@@ -125,12 +125,12 @@ I am a mathematician, musician, and public speaker. I give maths talks and works
 
 :::{.columns}
 :::{.column width=35%}
-[![](images/jane_white.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/jane-white/)
+[![](images/Profiles/jane_white.png){width=100%}](https://researchportal.bath.ac.uk/en/persons/jane-white/)
 :::
 :::{.column width=5%}
 :::
 :::{.column width=60%}
-**Jane White** [maskajw@bath.ac.uk](mailto:maskajw@bath.ac.uk)
+**Jane White** (Emeritus Professor) [maskajw@bath.ac.uk](mailto:maskajw@bath.ac.uk)
 
 I am interested in progression of assessment activity through UG programmes and assessment for learning. I am keen on developing the academic Education role, and for PRiME to be a voice for academic staff in the Education teaching pathways, as well as a nationally recognised Centre for Excellence in pedagogic practice for Mathematical Sciences.
 :::
@@ -141,7 +141,7 @@ I am interested in progression of assessment activity through UG programmes and 
 :::{.columns}
 :::{.column width=20% text-align=center}
 <center>
-[![](images/anna_daupare.png){width=100%}](https://www.linkedin.com/in/anna-daupare-363a60292/)
+[![](images/Profiles/anna_daupare.png){width=100%}](https://www.linkedin.com/in/anna-daupare-363a60292/)
 Anna Daupare
 </center>
 :::
@@ -151,7 +151,7 @@ Anna Daupare
 
 :::{.column width=20% text-align=center}
 <center>
-[![](images/evi_papadaki.png){width=100%}](https://www.linkedin.com/in/evi-papadaki/)
+[![](images/Profiles/evi_papadaki.png){width=100%}](https://www.linkedin.com/in/evi-papadaki/)
 Evi Papadaki
 </center>
 :::
