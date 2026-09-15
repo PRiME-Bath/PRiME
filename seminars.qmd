@@ -26,6 +26,42 @@ TBD
 :::
 :::
 
+***
+
+### **18/11/2026** TBD
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) (University of Bath)
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+TBD
+:::
+:::
+:::
+
+***
+
+### **10/02/2027** TBD
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Lpool-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) (University of Liverpool)
+
+:::{.callout-note title="Abstract" icon=false collapse=true}
+TBD
+:::
+:::
+:::
+
 <!-- *** -->
 
 <!-- ### **TBD** TBD -->
