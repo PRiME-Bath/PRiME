@@ -10,7 +10,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 ***
 
-### **21/10/2026** TBD
+### **21/10/2026** Contextualising the Curriculum through the History of Mathematics
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/OU-Logo.png){width=100%}
@@ -20,15 +20,17 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 :::{.column width=88%}
 **Speaker**:  [Brigitte Stenhouse](https://profiles.open.ac.uk/brigitte-stenhouse) (The Open University)
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
-TBD
+:::{.callout-note title="Abstract" icon=false collapse=false}
+Over the past three years, the Contextualising the Curriculum through the History of Mathematics project at The Open University has hosted four undergraduate student research interns.  During the internships, students engage with academic literature in history of mathematics in order to identify people, ideas, or artefacts that complement the undergraduate mathematics curriculum; the way in which their chosen histories “complement” the curriculum is left to the student, though they are encouraged to search for lesser-told stories that resonate with their personal interests.
+
+In this talk I will walk through some of the ~15 articles soon to be available on the Contextualising the Curriculum VLE site, reflecting on what knowledge and study skills students can gain from engaging with these resources.
 :::
 :::
 :::
 
 ***
 
-### **18/11/2026** TBD
+### **18/11/2026** Digital Accessibility in Maths: Making Things Add Up for Everyone
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/Bath-Logo.png){width=100%}
@@ -38,7 +40,25 @@ TBD
 :::{.column width=88%}
 **Speaker**:  [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) (University of Bath)
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
+:::{.callout-note title="Abstract" icon=false collapse=false}
+When people think about accessibility in mathematics, the focus is often on making equations accessible to screen readers. While this is an essential part of making mathematical content accessible, students' experience of learning maths goes far beyond equations.  From lectures, visualisations and handwritten notes to recordings, assessments and digital resources, accessibility barriers can arise throughout the learning journey.  This seminar explores common barriers in mathematics education and highlights practical approaches that can make learning more flexible, effective and inclusive for everyone.
+:::
+:::
+:::
+
+***
+
+### **02/12/2026** Student Community & Belonging
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Lpool-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) (University of Liverpool)
+
+:::{.callout-note title="Abstract" icon=false collapse=false}
 TBD
 :::
 :::
@@ -56,7 +76,7 @@ TBD
 :::{.column width=88%}
 **Speaker**:  [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) (University of Liverpool)
 
-:::{.callout-note title="Abstract" icon=false collapse=true}
+:::{.callout-note title="Abstract" icon=false collapse=false}
 TBD
 :::
 :::
