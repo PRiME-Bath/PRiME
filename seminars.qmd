@@ -4,13 +4,26 @@ All seminars are held in **Wolfson Lecture Theatre 4W 1.7** on **Wednesdays 11:1
 
 **Passcode**:  816478
 
+# Upcoming Seminars {.unnumbered}
+
 The seminar schedule will be updated throughout the year and can be accessed on this page.
 
-# Upcoming Seminars {.unnumbered}
+| Date       | Speaker | Institution | Title |
+|:----------:|:-------:|:-----------:|:-----:|
+| 21/10/2026 | [Brigitte Stenhouse](https://profiles.open.ac.uk/brigitte-stenhouse) | The Open University | [Contextualising the Curriculum through the History of Mathematics](#BS-21-10-2026) |
+| 18/11/2026 | [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) | University of Bath | [Digital Accessibility in Maths: Making Things Add Up for Everyone](#JL-18-11-2026) |
+| 02/12/2026 | [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) | University of Liverpool | [Student Community & Belonging](#SF-02-12-2026)|
+| 10/02/2027 | [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) | University of Liverpool | [TBD](#JH-10-02-2027) |
 
 ***
 
-### **21/10/2026** Contextualising the Curriculum through the History of Mathematics
+# Seminars
+
+:::{.panel-tabset}
+
+## 2026/2027
+
+### **21/10/2026** Contextualising the Curriculum through the History of Mathematics {#BS-21-10-2026}
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/OU-Logo.png){width=100%}
@@ -30,7 +43,7 @@ In this talk I will walk through some of the ~15 articles soon to be available o
 
 ***
 
-### **18/11/2026** Digital Accessibility in Maths: Making Things Add Up for Everyone
+### **18/11/2026** Digital Accessibility in Maths: Making Things Add Up for Everyone {#JL-18-11-2026}
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/Bath-Logo.png){width=100%}
@@ -48,7 +61,7 @@ When people think about accessibility in mathematics, the focus is often on maki
 
 ***
 
-### **02/12/2026** Student Community & Belonging
+### **02/12/2026** Student Community & Belonging {#SF-02-12-2026}
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/Lpool-Logo.png){width=100%}
@@ -66,7 +79,7 @@ TBD
 
 ***
 
-### **10/02/2027** TBD
+### **10/02/2027** TBD {#JH-10-02-2027}
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/Lpool-Logo.png){width=100%}
@@ -81,32 +94,6 @@ TBD
 :::
 :::
 :::
-
-<!-- *** -->
-
-<!-- ### **TBD** TBD -->
-<!-- :::{.columns} -->
-<!-- :::{.column width=10%} -->
-<!-- ![](images/Logos/Bham-Logo.png){width=100%} -->
-<!-- ::: -->
-<!-- :::{.column width=2%} -->
-<!-- ::: -->
-<!-- :::{.column width=88%} -->
-<!-- **Speaker**:  [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) (University of Birmingham) -->
-
-<!-- :::{.callout-note title="Abstract" icon=false collapse=true} -->
-<!-- TBD -->
-<!-- ::: -->
-<!-- ::: -->
-<!-- ::: -->
-
-***
-
-# Previous Seminars
-
-:::{.panel-tabset}
-
-## 2026/2027
 
 ## 2025/2026
 
