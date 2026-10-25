@@ -10,7 +10,6 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 | Date       | Speaker | Institution | Title |
 |:----------:|:-------:|:-----------:|:-----:|
-| 21/10/2026 | [Brigitte Stenhouse](https://profiles.open.ac.uk/brigitte-stenhouse) | The Open University | [Contextualising the Curriculum through the History of Mathematics](#BS-21-10-2026) |
 | 18/11/2026 | [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) | University of Bath | [Digital Accessibility in Maths: Making Things Add Up for Everyone](#JL-18-11-2026) |
 | 02/12/2026 | [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) | University of Liverpool | [Student Community & Belonging](#SF-02-12-2026)|
 | 10/02/2027 | [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) | University of Liverpool | [TBD](#JH-10-02-2027) |
