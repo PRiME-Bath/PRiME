@@ -12,6 +12,7 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 |:----------:|:-------:|:-----------:|:-----:|
 | 18/11/2026 | [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) | University of Bath | [Digital Accessibility in Maths: Making Things Add Up for Everyone](#JL-18-11-2026) |
 | 02/12/2026 | [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) | University of Liverpool | [Student Community & Belonging](#SF-02-12-2026)|
+| 03/02/2027 | [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) | University of Birmingham | [TBD](#MG-03-02-2027) |
 | 10/02/2027 | [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) | University of Liverpool | [TBD](#JH-10-02-2027) |
 
 ***
@@ -69,6 +70,24 @@ When people think about accessibility in mathematics, the focus is often on maki
 :::
 :::{.column width=88%}
 **Speaker**:  [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) (University of Liverpool)
+
+:::{.callout-note title="Abstract" icon=false collapse=false}
+TBD
+:::
+:::
+:::
+
+***
+
+### **03/02/2027** TBD {#MG-03-02-2027}
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bham-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) (University of Birmingham)
 
 :::{.callout-note title="Abstract" icon=false collapse=false}
 TBD
