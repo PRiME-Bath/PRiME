@@ -10,7 +10,6 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 
 | Date       | Speaker | Institution | Title |
 |:----------:|:-------:|:-----------:|:-----:|
-| 18/11/2026 | [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) | University of Bath | [Digital Accessibility in Maths: Making Things Add Up for Everyone](#JL-18-11-2026) |
 | 02/12/2026 | [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) | University of Liverpool | [Building a Mathematics Student Community Through Peer Learning](#SF-02-12-2026)|
 | 03/02/2027 | [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) | University of Birmingham | [TBD](#MG-03-02-2027) |
 | 10/02/2027 | [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) | University of Liverpool | [TBD](#JH-10-02-2027) |
@@ -52,6 +51,8 @@ In this talk I will walk through some of the ~15 articles soon to be available o
 :::
 :::{.column width=88%}
 **Speaker**:  [Joshua Lim](https://www.bath.ac.uk/teams/centre-for-learning-teaching-clt/) (University of Bath)
+
+**Recording**:  [Link](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa249833-20b2-48a1-a538-b50600c965d8)
 
 :::{.callout-note title="Abstract" icon=false collapse=false}
 When people think about accessibility in mathematics, the focus is often on making equations accessible to screen readers. While this is an essential part of making mathematical content accessible, students' experience of learning maths goes far beyond equations.  From lectures, visualisations and handwritten notes to recordings, assessments and digital resources, accessibility barriers can arise throughout the learning journey.  This seminar explores common barriers in mathematics education and highlights practical approaches that can make learning more flexible, effective and inclusive for everyone.

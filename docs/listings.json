@@ -2,8 +2,9 @@
   {
     "listing": "/resources.html",
     "items": [
+      "/resources/Accessibility2026.html",
       "/resources/Interactivity2026.html",
-      "/resources/numbas.html",
+      "/resources/NUMBAS2024.html",
       "/resources/HEA2024.html"
     ]
   }

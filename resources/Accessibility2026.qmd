@@ -1,0 +1,18 @@
+---
+title: "Digital Accessibility in Maths: Making Things Add Up for Everyone"
+description: "A seminar about accessibility of material published to maths students."
+author: "Joshua Lim"
+date: 11/18/2026
+draft: false
+editor: source
+categories:
+    - Accessibility
+---
+
+<br>
+
+This presentation outlines the different ideas that can be done by the staff in order to improve accessibility of material, lectures and presentations for students in the maths department.
+
+[Link to presentation](https://computingservices-my.sharepoint.com/:p:/g/personal/waaa21_bath_ac_uk/IQAocV-Rm3JtQ4kUjr2t_np1ATEROp38pcmgCFnxHV_CAV0?e=XmDUE6)
+
+[Link to recording](https://uniofbath.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=fa249833-20b2-48a1-a538-b50600c965d8)
