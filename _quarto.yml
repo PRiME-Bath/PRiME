@@ -34,7 +34,7 @@ website:
         border: false
         background: light
         right: | 
-            ![](images/logo_white.png){width=25%}
+            ![](images/logo_white.png){width=35%}
     search: 
         location: navbar
         type: textbox

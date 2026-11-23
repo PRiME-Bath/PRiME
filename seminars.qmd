@@ -11,9 +11,10 @@ The seminar schedule will be updated throughout the year and can be accessed on 
 | Date       | Speaker | Institution | Title |
 |:----------:|:-------:|:-----------:|:-----:|
 | 02/12/2026 | [Simon Fairfax](https://www.liverpool.ac.uk/people/simon-fairfax) | University of Liverpool | [Building a Mathematics Student Community Through Peer Learning](#SF-02-12-2026)|
-| 03/02/2027 | [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) | University of Birmingham | [TBD](#MG-03-02-2027) |
+| 03/02/2027 | [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) | University of Birmingham | [What Is a Mathematics Degree For? Skills and Judgement in an Age of AI](#MG-03-02-2027) |
 | 10/02/2027 | [Joel Haddley](https://www.liverpool.ac.uk/people/joel-haddley) | University of Liverpool | [TBD](#JH-10-02-2027) |
-
+| 03/03/2027 | [James Foadi](https://researchportal.bath.ac.uk/en/persons/james-foadi/) | University of Bath | [TBD](#JF-03-03-2027) |
+| 24/03/2027 | [Mason Pember](https://researchportal.bath.ac.uk/en/persons/mason-pember/) & [Tobias Barker](https://researchportal.bath.ac.uk/en/persons/tobias-barker/) | University of Bath | [TBD](#MPTB-24-03-2027) |
 ***
 
 # Seminars
@@ -80,7 +81,7 @@ Peer learning can support students academically while helping them build connect
 
 ***
 
-### **03/02/2027** TBD {#MG-03-02-2027}
+### **03/02/2027** What Is a Mathematics Degree For? Skills and Judgement in an Age of AI {#MG-03-02-2027}
 :::{.columns}
 :::{.column width=10%}
 ![](images/Logos/Bham-Logo.png){width=100%}
@@ -90,8 +91,14 @@ Peer learning can support students academically while helping them build connect
 :::{.column width=88%}
 **Speaker**:  [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) (University of Birmingham)
 
+Michael Grove is Deputy Pro-Vice-Chancellor for Education Policy and Academic Standards at the University of Birmingham, Professor of Mathematics and Mathematics Education, and a National Teaching Fellow. As DPVC, he provides strategic leadership in higher education policy, and in ensuring excellent education standards across the University’s diverse student community and broad curriculum portfolio. His role focuses upon the University’s response to, and engagement with, higher education policy and regulation, student access and participation, awarding gaps, graduate outcomes, assessment and feedback, and measures of teaching excellence and learning gain. He also has responsibility for leading the University’s strategic response to developments in generative artificial intelligence in relation to learning, teaching, assessment, and support.
+
 :::{.callout-note title="Abstract" icon=false collapse=false}
-TBD
+We expect mathematics graduates to leave university with more than a strong understanding of mathematical ideas and techniques. We also expect them to be able to reason carefully, tackle unfamiliar problems, question assumptions and exercise sound judgement. Yet while these capabilities are widely valued, we often assume that they develop naturally through studying mathematics, rather than considering how deliberately we teach them or how effectively our assessments recognise them.
+
+The growing availability of generative AI brings these issues into sharper focus. When mathematical solutions and explanations can be generated almost instantly, we need to be clearer about what students should be able to do for themselves, and where their own understanding and judgement remain essential. This also raises questions about the values and dispositions that underpin good mathematical practice, particularly intellectual honesty, curiosity and a willingness to challenge apparently convincing answers.
+
+Drawing on research and practice in undergraduate mathematics education, I will consider how we might develop these capabilities more deliberately through our curricula, and the implications for how we teach and assess mathematics. In doing so, I hope to encourage a wider discussion about the skills, attributes and values we want our graduates to develop, and what this means for the mathematics degrees we design and deliver.
 :::
 :::
 :::
@@ -113,6 +120,44 @@ TBD
 :::
 :::
 :::
+
+***
+
+### **03/03/2027** TBD {#JF-03-03-2027}
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [James Foadi](https://researchportal.bath.ac.uk/en/persons/james-foadi/) (University of Bath)
+
+:::{.callout-note title="Abstract" icon=false collapse=false}
+TBD
+:::
+:::
+:::
+
+***
+
+### **24/03/2027** TBD {#MPTB-24-03-2027}
+:::{.columns}
+:::{.column width=10%}
+![](images/Logos/Bath-Logo.png){width=100%}
+:::
+:::{.column width=2%}
+:::
+:::{.column width=88%}
+**Speaker**:  [Mason Pember](https://researchportal.bath.ac.uk/en/persons/mason-pember/) & [Tobias Barker](https://researchportal.bath.ac.uk/en/persons/tobias-barker/) (University of Bath)
+
+:::{.callout-note title="Abstract" icon=false collapse=false}
+TBD
+:::
+:::
+:::
+
+<!----------------------------------------------------------------------------->
 
 ## 2025/2026
 
